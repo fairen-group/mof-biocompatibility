@@ -1,0 +1,4176 @@
+Fragmenting MOF 0
+Opening NEVKUX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]45(O[C][O])(O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr](O[C][O])(O1)(O2)(O6)O7)(O4)O5)O3
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 1
+Opening SALXEL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[C]O[Zr]45([O])([O])O[Zr]([O])([O])(O[C]O1)(O4)O[Zr]1(O[C][O])(O[C][O])(O[C]O[Zr]4([O])([O])(O[Zr]([O])([O])(O[C]O1)(O4)O2)O3)O5
+Identified linker: [O]C(=O)[C]1[C][C][C](C([O])=O)O1
+Saving linker
+Fragmenting MOF 2
+Opening SURHEU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123([O])O[C]O[Zr]4567O[C]O[Zr]8(O[C]O1)(O[C]O[Zr]19%10(O[C]O2)O[C]O[Zr]2(O[C]O3)(O[C]O4)(O[C]O[Zr](O[C]O5)(O[C]O8)(O[C]O1)(O2)O9)O%10)(O6)O7
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 3
+Opening IXETEM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:C[C]1O[Zr]234O[C](C)O[Zr]5(O[C]=O)(O[C](C)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O5)(O3)O4.C[C]1O[Zr]23O[C](C)O[Zr]45(O[C](C)O[Zr](O1)(O2)(O4)O5)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3c(-c4ccc(-c5ccc(C([O])=O)cc5)cc4)c(-c4ccc(-c5ccc(C([O])=O)cc5)cc4)c(-c4ccc(-c5ccc(C([O])=O)cc5)cc4)c(-c4ccc(-c5ccc(C([O])=O)cc5)cc4)c3-c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 4
+Opening YETDUZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]P(O)O[Zr]1(F)(F)(OP(=O)=O)OP([O])O[Zr](F)(F)(OP([O])O)(OP(=O)=O)OP([O])O1
+Identified linker: [O]P([O])(=O)c1ccc(-c2cc(-c3ccc(P([O])([O])=O)cc3)nc(-c3ccc(P([O])(=O)O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 5
+Opening TAXGAD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]1O[C]O[Zr](O[C][O])O[Zr]234(O[C][O])O[C]O[Zr]56(O[C]O[Zr]7(O[C]O[Zr](O[C][O])(O1)(O5)(O6)O7)(O2)O3)O4.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3ccc(C([O])=O)cc3)c(CO)c2)cc1
+Saving linker
+Fragmenting MOF 6
+Opening IXEJUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O].[O].[O].[O].[O][Zr]123([O])O[Zr]4(O[C]=O)(O[C]=O)(O1)O[Zr]1([O])([O])(O4)O[Zr](O[C]=O)(O[C]=O)(O2)(O3)O1
+Identified linker: Cc1cc(C([O])=O)cc(C)c1-c1c(C)cc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 7
+Opening BIZLOO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O.O.O.O.O.O.O.O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[Zr].[Zr].[Zr].[Zr].[Zr].[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2c3ccccc3c(-c3ccc(C([O])=O)cc3)c3ccccc23)cc1
+Saving linker
+Fragmenting MOF 8
+Opening NIHHAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr](O[C]O2)(O3)O6)(O1)O[Zr](O[C][O])(O[C][O])(O4)(O5)O7
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 9
+Opening YEYCUC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]1234O[C]O[Zr]O[C]O[Zr]5(O[C]O1)(O2)(O3)O[Zr]1(O[C]=O)(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)(O4)O1)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1c(C)c(-c2ccc(C([O])=O)cc2)c(C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 10
+Opening FIQGES.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 11
+Opening XICNOO01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 12
+Opening NEJMIB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]1234O[C]O[Zr]5(O[C][O])(O1)(O2)O[Zr@](O[C][O])(O[C]O[Zr@]12O[C]O[Zr@](O[C]O[Zr@@](O[C][O])(O3)O5)(O1)O2)O4.[O][C][O].[O][C][O]
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 13
+Opening TUCYUL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 14
+Opening TEYYUU01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]1(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr]2345O[C]O[Zr]6(O[C]O[Zr](O[C]O2)(O6)(O3)O4)(O1)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)C1=C[CH]N([Co](Cl)(Cl)(N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 15
+Opening TOJNEN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Could not fragment this MOF, please check .cif file
+Fragmenting MOF 16
+Opening VIZFOC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]123O[C]O[Zr]45(O)(O)O[Zr]6(O[C][O])(O[C]O[Zr]7(O)(O)(O1)O[Zr](O)(O)(O[C]O6)(O2)O7)O[Zr](O)(O)(O[C]O3)(O4)O5
+Identified linker: [O]C(=O)c1ccc(-c2cc([N][N]c3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 17
+Opening QURNOI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]45([O])O[C]O[Zr]67([O])(O[C]O1)O[C]O[Zr]1([O])(O[C]O4)(O[C]O[Zr]4([O])(O[C]O2)(O[C]O5)O[C]O[Zr]([O])(O[C]O3)(O[C]O6)(O[C]O1)O4)O7
+Identified linker: [O]C(=O)C1=CN2C(=C3C=CC(C([O])=O)=CN3[Co]2(Cl)Cl)C=C1
+Saving linker
+Fragmenting MOF 18
+Opening EDOQAS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O)(O)O[C]O[Zr]O[C]O[Zr@]1(O)O[C]O[Zr]O[C]O[Zr](O)(O)(O)(O)O[C]O1.O=[C]O[Zr](O)O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 19
+Opening HERJIA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: COc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(OC)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 20
+Opening FOTNIN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O].[O].[O].[O][Zr]1([O])O[C]O[Zr]2([O])([O])O[C]O[Zr]3([O])([O])(O[C]O1)O[Zr]145([O])O[C]O[Zr]6([O])(O[C]O[Zr]([O])(O[C]O1)(O3)(O6)O4)(O2)O5
+Identified linker: [O]C(=O)c1ccc(cc1)C1=NC(=[N]=C([N]1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 21
+Opening NIHFOC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)(O[C]=O)(O[C]=O)O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O3)(O4)O5
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 22
+Opening NUSXAC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O1O[Zr]234OO[Zr]567OO[Zr]8(OO[Zr]9(OO[Zr](OO[Zr]1(O5)O9)(O8)(O2)O3)(O6)O7)O4
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Fe@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 23
+Opening NEJNUO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C]=O)(O[C]=O)O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)c(C)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 24
+Opening HICPOB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]78(O[C]O[Zr](O[C]=O)(O7)(O8)(O1)O2)(O5)O6)(O3)O4.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2cc(C#CC#Cc3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 25
+Opening TISPAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 26
+Opening ISEMOK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr@]34O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]7(O[C]O3)(O1)(O5)O[Zr](O[C][O])(O[C][O])(O2)(O6)O7)O4.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)c(C)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 27
+Opening RUBLUX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]1O[C]O[Zr]O[C]O[Zr](O)O[C]O[Zr]O[C]O1.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr](O)(O)(O)(O)O[C][O].[O][C]O[Zr](O)(O)O[C][O]
+Identified linker: COc1cc(-c2ccc(C([O])=O)cc2)c(OC)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 28
+Opening BESLAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][CH]O[Zr]123O[C]O[Zr]45([O])([O])O[C]O[Zr]67(O[CH][O])O[C]O[Zr]8(O[C]O[Zr]9(O[C]O[Zr](O[C]O1)(O[C]O4)(O[CH]O6)(O9)O7)O8)(O[C]O2)(O[C]O5)O3
+Identified linker: O=O.[CH2].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH]O[O].[CH][O].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C]#[C].[C]#[C].[C]#[C].[C]/[C]=[C]\[C].[C]=C(C(=[C])[C@@H]([O])O[CH2])C([O])=O.[C]=O.[C]=O.[C]=O.[C]=O.[C]=O.[C]=O.[C]=O.[C]=[CH].[C]C=[C].[C][C].[C][C]=[C].[C][C]=[C].[C][C]=[C].[C][C]C(=O)OO[O].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O]C(=O)c1[c][c]c(C([O])[O])c([C@@H]2OCOO2)c1.[O]C(=O)c1ccc(C([O])[O])c([C@@H]([O])OCO)c1.[O][C]=O.[O][C]=O.[O][O].[O][O].[O][O]
+Saving linker
+Fragmenting MOF 29
+Opening UFOSEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123O[C]O[Zr]45(O)O[C]O[Zr]6(O)(O[C]O1)O[C]O[Zr@]1(O[C]O4)O[C]O[Zr](O)(O[C]O2)(O[C]O5)O[C]O[Zr@](O[C]O3)(O[C]O6)O[C]O1.[H].[H].[H].[OH].[OH].[OH].[OH]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 30
+Opening RUBLAD03.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O7)(O3)O4
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 31
+Opening VAKMEC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@@]1(O)O[C]O[Zr@]2(O[C][O])O[C]O[Zr]3(O)(O)O[C]O[Zr](O)O[C]O[Zr](O[C]O[Zr](O)(O)(O[C]O1)O2)O3.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 32
+Opening RODJUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]1(O)O[C]O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]7(O[C]O1)(O[C]O[Zr@](O)(O[C]O2)O3)(O[C]O[Zr@@](O)(O[C]O4)O7)O6)O5
+Identified linker: [O]C(=O)c1ccc(-c2nc(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)nc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 33
+Opening GINTEF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 34
+Opening EDOPIZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O)(O)O[C]=O.O=[C]O[Zr](O)O[C]=O.O=[C]O[Zr]O[C]O[Zr](O)(O)(O)(O)O[C]O[Zr]O[C]O[Zr](O)O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 35
+Opening FINLOG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@]12O[C]O[Zr]345O[C]O[Zr]67(O[C]O1)(O[Zr]1O[C]O[Zr]8(O[C]O[Zr](O[C]O1)(O2)(O8)(O6)O7)(O3)O4)O5.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 36
+Opening XICNOO02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.O[Zr]123(O)O[Zr]4(O[Zr]5(O4)O[Zr](O)(O)(O5)(O1)O2)O3.[OH].[OH].[OH].[OH].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 37
+Opening TEWMIU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2345O[C]O[Zr]678(O[C]O[Zr]9(O1)(O[C]O[Zr]1%10%11(O[C]O[Zr]%12(O[C]O[Zr](O[C]O1)(O[C]O9)(O[C]O6)(O%10)O%12)(O[C]O2)(O[C]O7)O%11)O[C]O3)(O4)O8)O5.[O].[O]
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2cc(C([O])=O)cc(C([O])=O)c2)c1
+Saving linker
+Fragmenting MOF 38
+Opening HERJEW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: COc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(OC)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 39
+Opening UFORAL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123(O)O[C]O[Zr]4567O[C]O[Zr]89(O)(O)O[C]O[Zr]%10(O[C]O1)(O[C]O4)(O[C]O[Zr]1(O[C]O2)(O[C]O8)(O[C]O[Zr](O[C]O3)(O[C]O9)(O[C]O5)(O6)O1)O%10)O7
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(C#Cc3ccc(C([O])=O)cc3)cc(C#Cc3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 40
+Opening SURKUN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]12(O[C]=O)O[Zr@@]3(O[C]=O)O[C]O[Zr]456(O[C]O[Zr](O[C]=O)(O3)(O4)O[Zr](O[C]=O)(O[C]=O)(O1)(O5)O6)O2.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 41
+Opening NABVAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]456O[C]O[Zr]7(O1)(O[C]O[Zr]189(O[C]O2)O[C]O[Zr]2(O[C]O3)(O[C]O4)(O[C]O[Zr](O[C]O7)(O[C]O5)(O[C]O1)(O8)O2)O9)O6.[O].[O].[O].[O]
+Identified linker: [O]C(=O)c1ccc(C#Cc2c3ccccc3c(C#Cc3ccc(C([O])=O)cc3)c3ccccc23)cc1
+Saving linker
+Fragmenting MOF 42
+Opening NEVSUF09.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]4(O[C][O])(O[C][O])(O1)O[Zr]156(O[C]O[Zr]O[C]O[Zr](O[C]O[Zr]O[C]O1)(O2)(O3)(O5)O6)O4
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 43
+Opening JOZWOM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@]34O[C]O[Zr]O[C]O[Zr]5(O[C]O3)(O4)O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O2)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)C1=C2C=CC3=[N]2[Zn@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 44
+Opening BESMIY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123([O])O[C]O[Zr]4567O[C]O[Zr]89([O])([O])O[C]O[Zr](O[C]O1)(O[C]O4)(O[C]O[Zr]14(O[C]O2)(O[C]O8)O[C]O[Zr](O[C]O3)(O[C]O9)(O[C]O5)(O1)O4)(O6)O7
+Identified linker: [CH2][CH]c1cc(C([O])=O)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 45
+Opening HERHEU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)cc(-c3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)c2)cc1
+Saving linker
+Fragmenting MOF 46
+Opening FIPCUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O[Zr]23(O[C]=O)O[Zr](O[C]=O)O[C]O[Zr]456(O[C]O[Zr]7(O[C]O[Zr](O[C]=O)(O7)(O2)(O4)O5)(O1)O6)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)C1=C[CH]N([Co](O)(O)(N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 47
+Opening QAJPEZ01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr](O[C]=O)O[C]=O.[O]O[Zr](O[O])(O[C]=O)O[C]=O.[O]O[Zr](O[O])(O[O])(O[O])(O[C]=O)O[C]=O.[O]O[Zr]1O[C]O[Zr]O[C]O[Zr]O[C]O1.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)c3ccccc23)c2ccccc12
+Saving linker
+Fragmenting MOF 48
+Opening NEVSUF08.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]4(O[C][O])(O[C][O])(O1)O[Zr]156(O[C]O[Zr]O[C]O[Zr](O[C]O[Zr]O[C]O1)(O2)(O3)(O5)O6)O4
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 49
+Opening BIKNOB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@]1(O[C]=O)O[Zr]23(O[C][O])O[C]O[Zr]4(O[C][O])(O[C]O[Zr]5(O[C][O])(O[C]=O)O[Zr](O[C][O])(O[C]=O)(O2)O[Zr](O[C][O])(O[C]=O)(O5)O4)(O1)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc3ccc(-c4ccc(C([O])=O)cc4)cc3c2)cc1
+Saving linker
+Fragmenting MOF 50
+Opening IFUDAO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 51
+Opening WERCOO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:CC(=O)O[Zr]12O[C]O[Zr]34(O[C]O[Zr]([O])(O[C]O3)O[P]O4)(O[C]O1)O[P]O2
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)cc(C(C)(C)C)c2c1-c1c(C)c(-c3ccc(C([O])=O)cc3)cc(C(C)(C)C)c1OP([O])(=O)O2
+Saving linker
+Fragmenting MOF 52
+Opening ISEMUQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@]34O[C]O[Zr]56(O[C]O[Zr]7(O[C]O3)(O5)(O1)O[Zr](O[C]=O)(O[C]=O)(O6)(O2)O7)O4.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)/C=C/c1ccc(/C=C/C([O])=O)cc1
+Saving linker
+Fragmenting MOF 53
+Opening ESEBOV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1.[O].[O].[O].[O].[O].[O].[O].[O]
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2ccc(C([O])=O)cc2)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 54
+Opening VIKRIT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:CC(=O)O[Zr]123(O[C][O])O[C]O[Zr@]4(O[C]O[Zr@@]5(O[C]=O)O[C]O[Zr@@](O[C]=O)(O[C]O4)O[Zr]4(O[C][O])(OC(C)=O)(O1)O[Zr](O[C][O])(OC(C)=O)(O5)(O2)O4)O3.O.O.O.[O]
+Identified linker: [O]C(=O)c1ccc(-c2cc3c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c3cc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 55
+Opening TIRDAC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr@]1(O[C]O[Zr@]23O[Mo]([O])([O])O[Zr@](O[Mo]([O])([O])[O])(O2)O3)O[Zr]234(O[C]=O)O[Mo]([O])([O])O[Zr](O[Mo]([O])([O])[O])(O1)(O[Zr](O[C][O])(O[C][O])(O[C][O])O2)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 56
+Opening GEDXOF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]123O[C]O[Zr](O[C]=O)O[Zr]4567O[C]O[Zr](O[C]O1)(O2)(O4)O[Zr](O[C]=O)(O[C]O5)(O3)(O6)O7.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2c(F)c(F)c(C#Cc3ccc(C([O])=O)cc3)c(F)c2F)cc1
+Saving linker
+Fragmenting MOF 57
+Opening GAZDAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O.O.O=[C]O[Zr]123O[C]O[Zr@]45O[Zr](O[C]=O)(O[C]O[Zr@@](O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O3)(O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O4)O5
+Identified linker: [O]C(=O)c1ccc(-n2c3ccc(C([O])=O)cc3c3cc(C([O])=O)ccc32)cc1
+Saving linker
+Fragmenting MOF 58
+Opening ZOHXUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.[O][C]O[Zr]123([O])O[Zr]4([O])(O[C][O])(O1)O[Zr]1([O])(O[C][O])(O4)O[Zr]([O])(O[C][O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1c[c]c2cc(C([O])=O)c[c]c2c1
+Saving linker
+Fragmenting MOF 59
+Opening NEJPEA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]456(O[C]O[Zr@]7(O[C]O[Zr]O[C]O[Zr@](O[C]O4)(O1)O[Zr](O[C][O])(O[C][O])(O5)(O6)O7)O2)O3.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)C1=CN2C(=C3C=CC(C([O])=O)=CN3[Pd]2(Cl)Cl)C=C1
+Saving linker
+Fragmenting MOF 60
+Opening VIKLOT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr@]34O[C]O[Zr]O[C]O[Zr]5(O[C]O3)(O4)O[Zr]3(O[C][O])(O[C][O])(O1)O[Zr](O[C][O])(O[C][O])(O2)(O5)O3.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)C1=C[C]=C2O[Ni@@]34O[C]5[C]=CC(C([O])=O)=CC5=CN3[C@H]3CCCC[C@@H]3N4C=C2[CH]1
+Saving linker
+Fragmenting MOF 61
+Opening HICPAN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]1234O[C]O[Zr]O[C]O[Zr]5(O[C]=O)(O[Zr@]67O[C]O[Zr](O[C]=O)(O6)(O1)O[Zr]([O])(O[C]O7)(O5)(O2)O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 62
+Opening BIKNUH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]23(O[C]=O)O[C]O[Zr]4(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O2)O[Zr](O[C]=O)(O[C]=O)(O4)O[Zr](O[C]=O)(O[C]=O)(O1)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc3ccc(-c4ccc(C([O])=O)cc4)cc3c2)cc1
+Saving linker
+Fragmenting MOF 63
+Opening UFOSIU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123O[C]O[Zr@]45O[C]O[Zr@]6(O[C]O1)O[C]O[Zr]1(O)(O)(O[C]O4)O[C]O[Zr](O)(O[C]O5)(O[C]O2)O[C]O[Zr](O)(O)(O[C]O6)(O[C]O3)O[C]O1.[OH].[OH]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 64
+Opening QAJPEZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr](O[O])(O[C]=O)O[C]=O.[O]O[Zr](O[O])(O[C]=O)O[C]=O.[O]O[Zr]1O[C]O[Zr]O[C]O[Zr]O[C]O1.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr](O[O])(O[O])(O[O])O[C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)c3ccccc23)c2ccccc12
+Saving linker
+Fragmenting MOF 65
+Opening FINMIB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr]456O[C]O[Zr]7(O[C]O[Zr]8(O[C]O[Zr]9(O[C]O4)(O5)O[Zr](O[C]=O)(O[C]O8)(O6)O9)(O7)O1)(O2)O3
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 66
+Opening GEDXUL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]234O[C]O[Zr]5(O[C]=O)(O[C]O[Zr]67(O[C]O[Zr](O[C]O2)(O[Zr](O[C]=O)(O[C]=O)O6)(O3)O7)(O1)O5)O4.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C#Cc3ccc(C([O])=O)cc3)c3[c]cc[c]c23)cc1
+Saving linker
+Fragmenting MOF 67
+Opening DEFTEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]123([O])O[Zr]45([O])(O[C]O[Zr]O[C]O[Zr]6(O[O])(O4)(O5)O[Zr](O[O])(O[C][O])(O1)(O2)O6)O3
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 68
+Opening QEMGIB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1cc(S([O])([O])[O])c2cc(C([O])=O)cc(S([O])([O])[O])c2c1
+Saving linker
+Fragmenting MOF 69
+Opening JUSGOV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@@]34O[C]O[Zr]5O[C]O[Zr@@](O[C]O3)(O4)O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O2)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 70
+Opening FINBUC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 71
+Opening OWILAJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(P(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 72
+Opening KOPKAE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[C][O])O[Zr]12(O[C][O])(O[C][O])O[Zr]34(O[C]O[Zr]5O[C]O[Zr]6(O[C]O3)(O5)(O4)O[Zr](O[C][O])(O[C][O])(O1)O6)O2.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(/C=N/c2ccc(/N=C/c3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 73
+Opening YEXQOK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O1O[Zr]OOO[Zr]O1.O1O[Zr]OOO[Zr]O1.[O]O[Zr]O[O].[O]O[Zr]O[O].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 74
+Opening EJEBUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[C][O])O[Zr]1(O[C][O])(O[C][O])O[Zr]234O[C]O[Zr]56(O[Zr](O[C][O])O[C][O])(O[C]O[Zr](O[C]O2)(O1)(O3)(O5)O6)O4.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)[C][C]c1[c][c]c(-c2[c][c]c([C][C]C([O])=O)[c]n2)n[c]1
+Saving linker
+Fragmenting MOF 75
+Opening SURHEU01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr]567O[C]O[Zr]8(O[C]O1)(O[C]O[Zr]19%10(O[C]O5)O[C]O[Zr]5(O[C]O6)(O[C]O2)(O[C]O[Zr](O[C]O3)(O[C]O8)(O[C]O1)(O5)O9)O%10)(O7)O4
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 76
+Opening BIKMEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr]1(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 77
+Opening FINLUM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56O[C]O[Zr]789%10O[C]O[Zr](O[C]O[Zr](O[C]O5)(O7)(O8)(O1)O2)O[C]O[Zr](O[C]O6)(O9)(O%10)(O3)O4
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 78
+Opening VIKSAM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2cc3c(cc2-c2ccc(C([O])=O)cc2)c2cc(-c4ccc(C([O])=O)cc4)c(-c4ccc(C(=O)OOC=O)cc4)cc2c2cc(-c4ccc(C(=O)OOC=O)cc4)c(-c4ccc(C([O])=O)cc4)cc32)cc1
+Saving linker
+Fragmenting MOF 79
+Opening FEVWUB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr@]12O[C]O[Zr]3456O[C]O[Zr]([O])(O[Zr](O[C]=O)(O[C]=O)(O[C]=O)O[C]=O)(O1)O[Zr]([O])(O[C]O3)(O[Zr]([O])(O[C]=O)(O2)O4)(O5)O6
+Identified linker: C.Cc1c(-c2ccc(C([O])=O)cc2)[c]c(-c2ccc(C([O])=O)cc2)c(C)c1-c1ccc(C([O])=O)cc1.[H].[H]
+Saving linker
+Fragmenting MOF 80
+Opening NAVPAE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1cc([O])c(C([O])=O)cc1[O]
+Saving linker
+Fragmenting MOF 81
+Opening TEYYUU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O[Zr]23(O[C]=O)O[Zr](O[C]=O)O[C]O[Zr]456(O[C]O[Zr]7(O[C]O[Zr](O[C]=O)(O7)(O2)(O4)O5)(O1)O6)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)C1=C[CH]N([Co](Cl)(Cl)(N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 82
+Opening ZOGRIZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1cnc(-c2ncc(C([O])=O)cc2[O])c([O])c1
+Saving linker
+Fragmenting MOF 83
+Opening JOHDIW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][C]=O.[O][C]=O.[O][Zr]12([O])O[Zr]34([O])O[C]O[Zr]5(O[C]=O)(O[C]=O)(O[C]O[Zr]([O])(O[Zr](O[C]=O)(O[C]=O)O3)(O1)O[Zr]([O])([O])(O4)O5)O2
+Identified linker: [O]C(=O)c1ccc2cc(-c3cc(-c4ccc5cc(C([O])=O)ccc5c4)c4c5c3CCC53CCc5c(-c6ccc7cc(C([O])=O)ccc7c6)cc(-c6ccc7cc(C([O])=O)ccc7c6)c(c53)OP([O])(=O)O4)ccc2c1
+Saving linker
+Fragmenting MOF 84
+Opening VISYUU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10%11(O1)(O[C]O[Zr](O[C]O4)(O2)(O5)O[Zr](O[C]O%10)(O[C]O6)(O8)(O%11)O7)O9)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(-c4cc(-c5ccc(C([O])=O)cc5)nc(-c5ccc(C([O])=O)cc5)c4)cc3)cc(-c3ccc(C([O])=O)cc3)n2)cc1
+Saving linker
+Fragmenting MOF 85
+Opening IXEJOM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 86
+Opening UVAHIK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]O[C]O[Zr@@]12O[C]O[Zr]3456O[C]O[Zr]7(O[C]O[Zr](O[C][O])(O7)(O[Zr](O[C][O])(O[C][O])(O1)(O3)O4)O5)(O2)O6.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 87
+Opening YESSUN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)[C@H]1CNCCNC[C@H](C([O])=O)CNCCNC1
+Saving linker
+Fragmenting MOF 88
+Opening NIKVAH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr]3(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O2)O3
+Identified linker: [O]C(=O)c1cc(C([O])=O)[nH]n1
+Saving linker
+Fragmenting MOF 89
+Opening UWOSIK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: C1=C[C@]23C45[C@H]6[C@@H]4[C@@H]4[C@H]6C46[C@@]2(C=C1)[C@@]61C=CC=C[C@]531.C1=C[C@]23C45[C@H]6[C@@H]4[C@@H]4[C@H]6C46[C@@]2(C=C1)[C@@]61C=CC=C[C@]531.C1=C[C@]23C45[C@H]6[C@@H]4[C@@H]4[C@H]6C46[C@@]2(C=C1)[C@@]61C=CC=C[C@]531.[O][C]=O.[O][C]=O.[O][C]=O.[c]1c[c]c[c]c1
+Saving linker
+Fragmenting MOF 90
+Opening DISROP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[C]O[Zr]34(O[C]=O)O[Zr]5(O[C]=O)(O[C]=O)O[C]O[Zr](O[C]=O)(O1)(O[Zr](O[C]=O)(O[C]=O)(O2)O3)O[Zr](O[C]=O)(O[C]=O)(O5)O4
+Identified linker: N[C@@H](CC([O])=O)C([O])=O
+Saving linker
+Fragmenting MOF 91
+Opening NIHFUI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr@@]7(O[C]=O)O[C]O[Zr]89(O[C]O[Zr](O[C]O7)(O5)(O6)(O8)O9)(O1)O2)(O3)O4)(O[C]=O)O[C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 92
+Opening NIKTUZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr@]56O[C]O[Zr]789O[C]O[Zr@@](O[C]O[Zr](O[C]O5)(O7)(O8)O1)(O[C]O[Zr](O[C]=O)(O9)(O2)(O3)O6)O4
+Identified linker: [O]C(=O)C1=NN=C(C([O])=O)[C]1
+Saving linker
+Fragmenting MOF 93
+Opening YIXPED.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: C#Cc1ccc(C(=O)OC(=O)c2ccc(C#C)cc2)cc1
+Saving linker
+Fragmenting MOF 94
+Opening BIKNAN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr]1(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 95
+Opening RAZVIA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [CH]=C/C(=C\C=[C]\[N][N]/[C]=C/C=C(\C=[CH])C([O])=O)C([O])=O
+Saving linker
+Fragmenting MOF 96
+Opening OQUFAJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O7)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 97
+Opening HICPUH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]78(O[C]O[Zr](O[C]O[Zr]O[C]=O)(O1)(O2)(O7)O8)(O5)O6)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc(C#CC#Cc3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 98
+Opening ERAVUQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C][O])(O[C][O])O3)(O4)O5.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 99
+Opening BOHXIH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@@]1(O)O[C]O[Zr]2(O)(O)O[C]O[Zr](O)(O)(O[C][O])O[C]O[Zr]3(O)(O[C]O[Zr@@](O)(O[C][O])O[C]O[Zr](O)(O[C][O])(O[C]O1)O[C]O3)O[C]O2
+Identified linker: [O]C(=O)/C=C/C([O])=O
+Saving linker
+Fragmenting MOF 100
+Opening RUKDUY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[C][O])(O[C][O])O[Zr]123O[C]O[Zr]456(O[C]O[Zr](O[C]O1)(O2)(O[Zr](O[C][O])(O[C][O])(O[Zr](O[C][O])(O[C][O])(O[C][O])O[C][O])O4)(O5)O6)O3
+Identified linker: [O]C(=O)c1ccc([C](Br)[C](Br)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 101
+Opening SURHEU03.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]1234O[C]O[Zr]567([O])O[C]O[Zr]89%10([O])O[C]O[Zr]%11([O])(O[C]O1)(O[C]O[Zr](O[C]O8)(O[C]O2)(O[C]O5)(O%11)O9)O[C]O[Zr](O[C]O3)(O[C]O6)(O[C]O%10)(O4)O7
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 102
+Opening GERBIR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c(O)c(-c3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3O)c2)cc1
+Saving linker
+Fragmenting MOF 103
+Opening SURHEU02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123O[C]O[Zr]456([O])O[C]O[Zr]789([O])O[C]O[Zr](O[C]O1)(O[C]O4)(O[C]O[Zr]14(O[C]O2)(O[C]O7)O[C]O[Zr](O[C]O3)(O[C]O5)(O[C]O8)(O1)O4)(O6)O9
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 104
+Opening OXOLAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr]123(O[C]=O)O[C]O[Zr]4(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O4)(O2)O3.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C#Cc3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 105
+Opening XIVTED.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1O[C]O[Zr]23(O[C][O])(O[C][O])O[Zr](O[C][O])(O[C][O])O[Zr]4(O[C][O])(O[C][O])O[Zr](O[C][O])(O[C][O])(O1)O[Zr](O[C][O])(O[C][O])(O4)(O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cn2)nc1
+Saving linker
+Fragmenting MOF 106
+Opening JOZWUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]2(O[C][O])(O[C][O])O[Zr]3456O[C]O[Zr]7(O[C]O[Zr](O[C]O3)(O2)(O7)(O4)O5)(O1)O6.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)C1=C2C=CC3=[N]2[Co@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 107
+Opening GINWUY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr]3O[C]O[Zr]45(O[C]O[Zr]6O[C]O[Zr]7(O[C]O3)(O[Zr](O[C]=O)(O[C]=O)(O6)O7)(O4)O5)(O1)O2
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 108
+Opening LICGOW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 109
+Opening WEYRAW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(N(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 110
+Opening XICYIT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1234O[C]O[Zr@]5(O[C]O[Zr]67O[C]O[Zr]8(O[C][O])(O[C][O])(O[C]O[Zr](O[C]=O)(O[Zr](O[C]=O)(O[C]O5)(O6)(O7)O8)(O1)O2)O3)O4
+Identified linker: [O]C(=O)[C]1C=C[C](C([O])=O)S1
+Saving linker
+Fragmenting MOF 111
+Opening HICNIT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(C#CC#Cc3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 112
+Opening TAXGIL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[C][O])O[Zr]234(O[C][O])O[C]O[Zr]5(O[C]O[Zr@@](O[C]O[Zr@]67O[C]O[Zr@](O[C][O])(O6)O7)(O2)O5)(O1)(O3)O4.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2cc(F)c(-c3ccc(C([O])=O)cc3)cc2F)cc1
+Saving linker
+Fragmenting MOF 113
+Opening OQUFAJ04.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O1.[C]1O[Zr]23O[C]O[Zr]456(O[C]O[Zr]7(O[C]O[Zr](O1)(O2)(O7)(O4)O5)O6)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 114
+Opening EWETOR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O].[O][Zr]123O[C]O[Zr]456O[C]O[Zr]7(O[C]O1)(O[C]O[Zr]189(O[C]O2)O[C]O[Zr]2(O[C]O3)(O[C]O4)(O[C]O[Zr](O[C]O5)(O[C]O7)(O[C]O1)(O2)O8)O9)O6
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3ccc(-c4ccc(C([O])=O)cc4)cn3)nc2)cc1
+Saving linker
+Fragmenting MOF 115
+Opening NEJNIC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 116
+Opening BIPLAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]456([O])O[C]O[Zr]78([O])(O[C]O[Zr]9([O])(O[C]O[Zr]([O])(O[C]O[Zr]([O])(O[C]O1)(O9)(O4)O5)(O2)(O7)O8)O6)O3
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Cu@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 117
+Opening HIKSIF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2O[C]O[Zr@@]34O[C]O[Zr@@]56O[C]O[Zr]7(O[C]O2)(O[C]O[Zr]289(O[C]O[Zr](O1)O[C]O[Zr]1(O[C]O3)(O[C]O[Zr](O[C]O5)(O[C]O2)(O1)(O8)O9)O4)O7)O6
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Cu@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 118
+Opening SELKOM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr]345O[C]O[Zr@]67O[C]O[Zr]8(O[C]O[Zr](O[C]=O)(O6)(O1)(O3)O4)O[Zr](O[C]=O)(O[C]O5)(O8)(O7)O2.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)[CH]/C=C/[CH]C([O])=O
+Saving linker
+Fragmenting MOF 119
+Opening RAZVOG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[C]O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]7(O[C]O1)(O6)(O[Zr](O[C][O])(O[C][O])(O2)O3)O[Zr](O[C][O])(O[C][O])(O4)O7)O5.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1c[c]c(/N=C/c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 120
+Opening NIHHIY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr]345(O[C]O[Zr@@]6(O[C]=O)O[Zr@@](O[C]=O)(O[C]O[Zr]7(O[C]O[Zr@](O[C]=O)(O7)O3)(O4)(O5)O1)O6)O2.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 121
+Opening TIRCUV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[C][O])(O[C][O])O[C]O[Zr]1234O[Mo]5(O[Zr]67(O[C]O[Zr@]8(O[C][O])O[C]O[Zr]9%10(O[Mo]%11(O[Zr](O[C]O8)(O6)(O7)(O9)O%10)SS%11)(O1)O2)(O3)O4)SS5.[O][Mo]([O])([S])[S].[O][Mo]([O])([S])[S]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 122
+Opening RUBTAK07.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr]567O[C]O[Zr]89%10O[C]O[Zr]%11([O])(O[C]O5)(O[C]O1)O[C]O[Zr](O[C]O8)(O[C]O2)(O[C]O[Zr](O[C]O6)(O[C]O9)(O[C]O3)(O7)O4)(O%10)O%11
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 123
+Opening DAQPET.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr][Zr]1234O[C]O[Zr@@]5(O[C]O[Zr]678O[C]O[Zr]9([Zr])(O[C]O[Zr@](O[C]O[Zr](O[C]O1)(O2)(O3)[Zr]O[Zr]5)(O9)[Zr]O[Zr]6)(O7)O8)O4
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Co@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 124
+Opening WOCJII.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[K]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 125
+Opening WOCKAB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[K]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 126
+Opening UYAXAV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]O[C][O].[O][C]O[Zr]O[C][O].[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(-c2ccc(N(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 127
+Opening GIPFAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 128
+Opening WIZMAV11.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr@@]4(O[C]O[Zr]56(O[C]O[Zr]78(O[C]O[Zr](O[C]=O)(O5)(O1)(O7)O8)(O6)O2)O4)O3.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 129
+Opening WIZMAV05.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]23(O[C]=O)(O[C]=O)O[Zr]4(O[C]O[Zr@]5(O[C]=O)O[Zr@@](O[C]=O)(O[C]O4)O5)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O3.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 130
+Opening VIKSIU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O.O.O.[O][Zr]12(O[C]=O)(OC=O)O[C]O[Zr@@]34O[C]O[Zr]56(O[C]O[Zr]7(O[C]O3)(O[C]O[Zr](O[C]=O)(OC=O)(O4)(O1)O[Zr]([O])(O[C]=O)(OC=O)(O[C]O5)O7)O6)O2
+Identified linker: [O]C(=O)c1ccc(-c2cc3c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c3cc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 131
+Opening BIKMOA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr]1(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 132
+Opening WOGBAY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr]4(O[C]=O)(O[C]O[Zr](O)(O[C]=O)(O[C]O1)(O2)O4)O3.O=[C]O[Zr]123O[C]O[Zr]4(O[C]=O)(O[C]O[Zr](O)(O[C]=O)(O[C]O1)(O2)O4)O3
+Identified linker: [O]C(=O)c1cnc(-c2ncc(C([O])=O)s2)s1
+Saving linker
+Fragmenting MOF 133
+Opening WIZMAV04.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O[Zr]2345O[C]O[Zr](O[C]=O)(O1)(O[Zr]1(O[C]=O)(O[C]O[Zr@](O[C]=O)(O[Zr](O[C]=O)(O[C]=O)O2)O1)O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 134
+Opening WIZMAV10.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12O[C]O[Zr@@]34O[C]O[Zr](O[C]O[Zr]56(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O3)(O5)O6)(O1)(O2)O4.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 135
+Opening OWILIR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc([C]2C=CC(P(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)=CC2)cc1
+Saving linker
+Fragmenting MOF 136
+Opening ZOPLUN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]23(O[C][O])(O[C][O])O[Zr@@]45O[C]O[Zr]67(O[C]O[Zr](O[C]O4)(O2)(O3)(O6)O7)(O1)O5.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C2=CC(=O)C(c3ccc(C([O])=O)cc3)=CC2=O)cc1
+Saving linker
+Fragmenting MOF 137
+Opening NEJMUN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C]=O)(O[C]=O)O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 138
+Opening WIZMAV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123O[C]O[Zr]45(O[C]O[Zr]6(O[C][O])(O4)(O1)O[Zr]14(O[C]O[Zr]O[C]O[Zr@@](O[C]O1)(O5)O4)(O2)O6)O3.[O][C][O].[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 139
+Opening HIXDEA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]5(O[C]=O)(O[Zr]678(O[C]O[Zr]O[C]O[Zr](O[C]O6)(O7)(O8)(O1)O2)O5)(O3)O4.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 140
+Opening RUBTAK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@]34O[C]O[Zr](O[C]O[Zr]5(O[C]O3)O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O2)O3)O4.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 141
+Opening CECNAC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Could not fragment this MOF, please check .cif file
+Fragmenting MOF 142
+Opening BOHKAM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr](O[O])O[C]=O.[O]O[Zr](O[O])O[C]=O.[O]O[Zr]O[C]=O.[O]O[Zr]O[C]=O.[O]O[Zr]O[C]=O.[O]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)/C=C/C([O])=O
+Saving linker
+Fragmenting MOF 143
+Opening XEZDIS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]23(O[C]O[Zr@@]4(O[C]O[Zr]56(O[C]O2)O[Zr](O[C]=O)(O[C]=O)(O4)O[Zr](O[C]=O)(O[C]=O)(O5)O6)O3)O1.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(/C=C/c2c3ccccc3c(/C=C/c3ccc(C([O])=O)cc3)c3ccccc23)cc1
+Saving linker
+Fragmenting MOF 144
+Opening RUBTAK06.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123([O])O[C]O[Zr]456O[C]O[Zr]78([O])(O[C]O1)O[C]O[Zr]19(O[C]O2)(O[C]O[Zr]2(O[C]O4)(O[C]O3)(O[C]O[Zr](O[C]O5)(O[C]O7)(O[C]O1)(O2)O9)O6)O8
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 145
+Opening EDOPIZ01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O)(O)O[C]=O.O=[C]O[Zr](O)O[C]=O.O=[C]O[Zr]O[C]=O.O[Zr]1O[C]O[Zr]O[C]O[Zr](O)(O)(O)(O)O[C]O1.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 146
+Opening HICPIV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 147
+Opening SURJUM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr]345O[C]O[Zr](O[C]O[Zr](O[C]O3)O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O4)(O2)O3)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(C([O])=O)c(C)cc1C([O])=O
+Saving linker
+Fragmenting MOF 148
+Opening MUBZUG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]45(O[C]O[Zr](O1)(O2)(O4)O5)O3.[C]1O[Zr]23O[C]O[Zr]45(O[C]O[Zr](O1)(O2)(O4)O5)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(C#Cc3ccc(C([O])=O)cc3)cc(-c3cc(C#Cc4ccc(C([O])=O)cc4)cc(C#Cc4ccc(C([O])=O)cc4)c3)c2)cc1
+Saving linker
+Fragmenting MOF 149
+Opening LOBQOL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr@]7(O[C]=O)O[C]O[Zr]89(O[C]O[Zr](O[C]O7)(O5)(O6)(O8)O9)(O1)O2)(O3)O4)(O[C]=O)O[C]=O
+Identified linker: CN1C=C(C([O])=O)C=C[C]1C([O])=O
+Saving linker
+Fragmenting MOF 150
+Opening NEHTAY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]78(O[C]O[Zr](O[C][O])(O1)(O2)(O7)O8)(O5)O6)(O3)O4.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 151
+Opening YEFJOL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]O[C]O[Zr]1234O[C]O[Zr@]5(O[C]O[Zr@@](O[C][O])(O[Zr]6(O[C][O])(O[C][O])(O5)O[Zr](O[C][O])(O[C][O])(O6)(O1)O2)O3)O4.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: COc1cc(-c2ccc(C([O])=O)cc2)c(OC)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 152
+Opening NUSVEE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr@]34O[C]O[Zr](O[C]O[Zr]5(O[C]O3)O[Zr]3(O[C][O])(O[C][O])(O1)O[Zr](O[C][O])(O[C][O])(O5)(O2)O3)O4.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Zn@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccccc2)cc1)c1ccc(cc1)C(=O)[O])c1ccccc1
+Saving linker
+Fragmenting MOF 153
+Opening RUBTAK04.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr@@]56O[C]O[Zr]78([O])(O[C]O1)O[C]O[Zr]19(O[C]O2)(O[C]O[Zr]2(O[C]O5)(O[C]O3)(O[C]O[Zr](O[C]O6)(O[C]O7)(O[C]O1)(O2)O9)O4)O8
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 154
+Opening TEYZAB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123(O[C]=O)O[Zr]4([O])(O[C]=O)(O1)O[Zr]1([O])(O[C]=O)(O4)O[Zr]([O])(O[C]=O)(O2)(O3)O1
+Identified linker: [O]C(=O)C1=C[CH]N([Cu](N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 155
+Opening TEWMOA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56O[C]O[Zr]789%10O[C]O[Zr](O[C]O[Zr](O[C]O5)(O7)(O8)(O1)O2)O[C]O[Zr](O[C]O6)(O9)(O%10)(O3)O4
+Identified linker: Cc1cc(-c2cc(C([O])=O)cc(C([O])=O)c2)c(C)cc1-c1cc(C([O])=O)cc(C([O])=O)c1
+Saving linker
+Fragmenting MOF 156
+Opening GARQUO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr]1234OO[Zr@@]56OO[Zr@@]7(OO[Zr]89(O[O])(OO[Zr](OO5)(O1)(O2)O[Zr](O[O])(OO6)(O7)(O8)O9)O3)O4.[O][O].[O][O].[O][O]
+Identified linker: [O]C(=O)c1ccc(/C=C/c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 157
+Opening VISZAB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]45O[C]O[Zr]67O[C]O[Zr](O1)(O4)O[Zr](O[C]O2)(O[C]O6)O[Zr](O[C]O3)(O[C]O7)O5.[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH].[O].[O].[O].[O]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(-c4cc(-c5ccc(C([O])=O)cc5)nc(-c5ccc(C([O])=O)cc5)c4)cc3)cc(-c3ccc(C([O])=O)cc3)n2)cc1
+Saving linker
+Fragmenting MOF 158
+Opening CILCOS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr]12(O[C]O[Zr]O[C]=O)O[C]O[Zr](O[O])(O[C]=O)(O1)O2.[O]O[Zr]12(O[C]O[Zr]O[C]=O)O[C]O[Zr](O[O])(O[C]=O)(O1)O2.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(S(=O)(=O)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 159
+Opening GIGGAH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]7(O[C]O[Zr](O[C]O2)(O3)O7)(O6)(O1)O[Zr](O[C]=O)(O[C]=O)O4)O5
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 160
+Opening DIDBIE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]1234O[C]O[Zr]567O[C]O[Zr]8([O])(O[C]O1)(O[C]O[Zr]19([O])(O[C]O2)O[C]O[Zr]2(O[C]O5)(O[C]O3)(O[C]O[Zr](O[C]O6)(O[C]O8)(O[C]O1)(O9)O2)O7)O4
+Identified linker: [O]C(=O)C#CC([O])=O
+Saving linker
+Fragmenting MOF 161
+Opening XAPFOM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]456([O])O[C]O[Zr]78([O])O[C]O[Zr]([O])(O[C]O1)(O[C]O4)(O[C]O[Zr]1([O])(O[C]O2)(O[C]O7)O[C]O[Zr]([O])(O[C]O3)(O[C]O8)(O[C]O5)O1)O6
+Identified linker: [O]C(=O)/C=C/c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 162
+Opening WIZMAV06.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr@@]34O[C]O[Zr](O[C]O[Zr]56(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O3)O[Zr](O[C]=O)(O[C]=O)(O4)(O5)O6)O2.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 163
+Opening WIZMAV12.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[C]O[Zr]345O[C]O[Zr]6(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O6)(O3)O[Zr](O[C]=O)(O[C]=O)(O1)(O4)O7)(O2)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 164
+Opening WIZMAV13.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1O[C]O[Zr@]23O[C]O[Zr]45(O[C][O])(O2)O[Zr]2(O[C][O])(O[C]O[Zr@](O[C][O])(O1)O2)O[Zr](O[C][O])(O[C][O])(O3)(O4)O5.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 165
+Opening DITJOH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C(c3ccc(-c4ccc(C([O])=O)cc4)cc3)(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 166
+Opening WIZMAV07.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@@]12O[C]O[Zr]O[C]O[Zr]3(O[C]=O)(O1)O[Zr]145(O[C]=O)O[C]O[Zr](O[C]=O)(O2)(O1)O[Zr](O[C]=O)(O[C]=O)(O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 167
+Opening BUNKUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:FC(F)(F)[C]1O[Zr]2345O[C]O[Zr]678(O[C]O[Zr]9%10(O[C]O[Zr]%11(O[C]O2)(O[C]O[Zr@](O[C]O6)(O1)O[Zr@@](O[C]O7)(O[C]O%11)O[C](C(F)(F)F)O9)(O3)O%10)(O8)O4)O5.[O].[O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C(=C(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 168
+Opening BIKMEQ01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr]1(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 169
+Opening UKESIO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1O[C]O[Zr@]2(O[C][O])O[Zr]3(O[C][O])(O[C][O])O[Zr]456(O[C][O])O[C]O[Zr]7(O[C]O[Zr](O[C]O1)(O2)(O4)O7)(O3)(O5)O6.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc([C](Br)[C](Br)c2ccc([C](Br)[C](Br)c3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 170
+Opening IFUDES.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 171
+Opening BIKNIV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]23(O[C]=O)O[C]O[Zr]45(O[C]=O)(O[C]=O)O[C]O[Zr](O[C]=O)(O2)(O[Zr](O[C]=O)(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)(O1)O3)O4)O5
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 172
+Opening RUBTAK05.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123O[C]O[Zr]456O[C]O[Zr]7([O])([O])(O[C]O1)O[C]O[Zr]18([O])(O[C]O2)O[C]O[Zr]2(O[C]O3)(O[C]O4)(O[C]O[Zr](O[C]O5)(O[C]O7)(O[C]O1)(O8)O2)O6
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 173
+Opening GINTOP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]5O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr]8(O[C]O5)(O6)(O7)O[Zr](O[C]=O)(O[C]=O)(O8)(O1)O2)(O3)O4
+Identified linker: [O]C(=O)c1ccc2cc(-c3[c]c(-c4ccc5cc(C([O])=O)ccc5c4)c4[nH]c5c(-c6ccc7cc(C([O])=O)ccc7c6)[c]c(-c6ccc7cc(C([O])=O)ccc7c6)cc5c4c3)ccc2c1
+Saving linker
+Fragmenting MOF 174
+Opening OQUFIR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O5)O[Zr](O[C]=O)(O[C]=O)(O3)(O4)O6.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 175
+Opening EDOPIZ02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]O[Zr](O)(O)(O)O[C]O[Zr](O)O[C]O[Zr](O)(O)(O)(O)O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 176
+Opening PAHVUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:Cl[ReH].[O].[O].[O]C(=O)c1c[c]c(-c2[c]cc([C]3O[Zr]456([O])O[C]O[Zr]78(O[C]O[Zr]9%10(O[C]O4)O[C]O[Zr]4%11(O[C]O7)(O[C]O[Zr]7([O])(O[C]O8)(O[C]O5)O[C]O[Zr](O[C]O9)(O[C]O4)(O3)(O7)O%11)O%10)O6)cc2)cc1.[O]O[Zr](O[C]O[Zr](O[O])(O[O])O[C]=O)O[C]O[Zr](O[O])(O[O])(O[O])(O[O])O[C]=O.[O]O[Zr](O[C]O[Zr]O[C]=O)O[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1c[c]c(-c2[c]cc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 177
+Opening DAQNUH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O1O[Zr]23(OO[Zr]12)O[Zr]124(OO[Zr]1OO2)O[Zr]12(OO[Zr]1OO2)(O3)O4.[O]O[Zr]1OO[Zr@]12O[Zr]13(OO[Zr]1O[O])O[Zr]14(OO[Zr]1OO4)(O2)O3
+Identified linker: [O][C][Co]123([C][O])[N]4=C5C=CC4=C(c4n2c(C(=C2[N]1=C(C=C2)C(=c1n3c(=C5C2=CC=[C]C=C2)cc1)C1=CC=[C]C=C1)C1=CC=[C]C=C1)cc4)C1=CC=[C]C=C1.[O]O[C]O[O].[O]O[C]O[O].[O]O[C]O[O].[O]O[C]O[O]
+Saving linker
+Fragmenting MOF 178
+Opening IDAHON.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1cc2c#cc3cccc(c#cc4cc(C([O])=O)cc(c#cc5cccc(c#cc6cc(C([O])=O)cc(c#cc7cccc(c#cc(c1)c2)c7)c6)c5)c4)c3
+Saving linker
+Fragmenting MOF 179
+Opening HICPER.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]78(O[C]O[Zr](O[C]=O)(O7)(O8)(O1)O2)(O5)O6)(O3)O4.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 180
+Opening OQUFAJ02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 181
+Opening UFOSOA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123O[C]O[Zr]45(O)O[C]O[Zr]6(O)(O[C]O1)O[C]O[Zr]1(O)(O[C]O2)O[C]O[Zr](O)(O[C]O3)(O[C]O4)O[C]O[Zr](O)(O)(O[C]O5)(O[C]O6)O[C]O1.[OH]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 182
+Opening BOHWIG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(C(c2ccc(C([O])=O)cc2)(c2ccc(C([O])=O)cc2)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 183
+Opening UFEFIX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[CH]O[Zr@]5(O[CH]O[Zr](O[CH]O1)(O5)(O2)O3)O4.[CH]1O[Zr]23O[CH]O[Zr]45(O[CH]O[Zr](O1)(O2)(O4)O5)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)COc1c2cccc1Cc1cccc(c1OCC([O])=O)Cc1cccc(c1OCC([O])=O)Cc1cccc(c1OCC([O])=O)C2
+Saving linker
+Fragmenting MOF 184
+Opening XICNOO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 185
+Opening GATQIE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(cc1)C1=NC(=[N]=C([N]1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 186
+Opening RUBTAK01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]123O[C]O[Zr]456O[C]O[Zr]78(O[C]O1)(O[C]O[Zr]19([O])(O[C]O2)O[C]O[Zr]2(O[C]O3)(O[C]O4)(O[C]O[Zr](O[C]O5)(O[C]O1)(O[C]O7)(O8)O2)O9)O6
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 187
+Opening DORLAZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]O[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr](O[C][O])(O[Zr](O[C][O])(O[C][O])(O[Zr](O[C][O])(O[C][O])O1)O5)(O2)O6)(O3)O4.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 188
+Opening DEFTAM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [N]=N[N]Cc1cc(-c2ccc(C([O])=O)cc2)c(C[N]N=[N])cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 189
+Opening UMUMOG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr]345O[C]O[Zr](O[C]O[Zr]67(O[C]O[Zr](O[C]O3)O6)(O1)O[Zr](O[C][O])(O[C][O])(O4)(O2)O7)O5.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: Nc1cc(C([O])=O)c[c]c1/C=C/c1[c]cc(C([O])=O)cc1N
+Saving linker
+Fragmenting MOF 190
+Opening HIXDIE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr@@]6(O[C]O[Zr@]7(O[C]O2)O[Zr@@](O[C]=O)(O[C]O[Zr](O[C]=O)(O1)(O6)(O3)O4)O7)O5.[O][C]=O.[O][C]=O
+Identified linker: COc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(OC)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 191
+Opening TOVGAO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]123(O[C]=O)O[C]O[Zr]45(O[C]O[Zr]6(O[C]=O)(O[C]O[Zr](O[C]=O)(O[Zr](O[C]=O)(O[C]=O)O4)(O6)O5)O1)(O2)O3.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)C1=C2C=CC3=[N]2[Ni@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 192
+Opening QURNEY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]123([O])O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O[C]O1)(O[C]O4)(O[C]O[Zr]1(O[C]O8)(O[C]O2)(O[C]O[Zr](O[C]O9)(O[C]O3)(O[C]O5)(O6)O1)O%10)O7
+Identified linker: [O]C(=O)c1c[c]c(-c2[c]cc(C([O])=O)cn2)nc1
+Saving linker
+Fragmenting MOF 193
+Opening EBOTIB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr@@]34O[C]O[Zr]O[C]O[Zr]5(O[C]O3)(O4)O[Zr]3(O[C][O])(O[C][O])(O1)O[Zr](O[C][O])(O[C][O])(O2)(O5)O3.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 194
+Opening ZOKYEG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1[c]cc(-c2nc(-c3ccc(C([O])=O)cc3)n[nH]2)cc1
+Saving linker
+Fragmenting MOF 195
+Opening WIZMAV03.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[C]=O.O=[C]O[Zr]O[C]=O.[O]O[Zr](O[C]O[Zr@@]1(O[O])O[C]O[Zr](O[O])(O[O])O[C]O[Zr](O[O])(O[O])(O[O])(O[O])O[C]O1)O[C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 196
+Opening WIZMAV02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr](O[C]=O)O[C]=O.[O]O[Zr](O[C]=O)O[C]=O.[O]O[Zr](O[C]O[Zr](O[O])O[C]O[Zr](O[O])(O[O])(O[O])O[C]=O)O[C]O[Zr](O[O])O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 197
+Opening FIPDUG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr@@]1(O[C]=O)O[Zr]234O[C]O[Zr]5(O[C]=O)(O2)O[Zr]2(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]O3)(O4)(O5)O2.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)C1=C[CH]N([Fe](Cl)(Cl)(N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 198
+Opening TETSAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@@]12O[C]O[Zr@@]34O[C]O[Zr]5(O[C][O])(O1)O[Zr]1(O[C][O])(O[C][O])(O[C][O])O[Zr]67(O[C]O3)(O[C]O[Zr](O[C]O4)(O5)(O1)(O6)O7)O2.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(/C=C/c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 199
+Opening VIKSEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[OH].[OH].[OH].[O][C]O[Zr]1([O])(OC=O)O[C]O[Zr@@](O[C]=O)(O[Zr@]2(O[C]=O)O[C]O[Zr]([O])(O[C][O])(OC=O)(O[Zr]3([O])(O[C][O])(OC=O)O[C]O[Zr](O[C]=O)O3)O2)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc3c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c3cc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 200
+Opening OQUGAK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]5(O[C]=O)(O1)(O2)O[Zr]1(O[C]=O)(O[C]=O)(O5)O[Zr](O[C]=O)(O[C]=O)(O3)(O4)O1.[CH2][O].[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1N
+Saving linker
+Fragmenting MOF 201
+Opening TURFIX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[C][O])O[Zr]1(O[C][O])(O[C][O])O[Zr]2345O[C]O[Zr]6(O[Zr](O[C][O])O[C][O])(O[C]O[Zr](O[C]O2)(O1)(O6)(O3)O4)O5.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)[C]1C=CC(=C=[C]c2ccc(-c3ccc([C]=C=C4[CH]C=C(C([O])=O)C=C4)cc3[N+](=O)[O-])cc2)C=C1
+Saving linker
+Fragmenting MOF 202
+Opening SURJOG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123([O])O[C]O[Zr@@]45O[C]O[Zr]678(O[C]O1)O[C]O[Zr]1([O])(O[C]O2)(O[C]O[Zr]2([O])(O[C]O[Zr](O[C]O4)(O[C]O1)(O[C]O6)(O2)O7)(O[CH]O5)O[CH]O3)O8
+Identified linker: [O]C(=O)c1ccc(C([O])=O)c(Br)c1
+Saving linker
+Fragmenting MOF 203
+Opening MERGIC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2O[C]O[Zr@]34O[C]O[Zr@@]56O[C]O[Zr]7O[C]O[Zr@@](O[C]O[Zr@](O1)(O3)[Zr]O[Zr@]21O[Zr]4O1)(O5)[Zr]1O[Zr@]7(O[Zr]6)O1
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Mn@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 204
+Opening TAXGEH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]O[Zr]O[C][O].[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [N]=[N]=NCc1cc(ccc1c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 205
+Opening ERALUG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 206
+Opening OQUFAJ03.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O7)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 207
+Opening FINMUN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1234O[C]O[Zr]5O[C]O[Zr]67(O[C]O[Zr]8O[C]O[Zr]9(O[C][O])(O6)(O7)O[Zr](O[C]O5)(O[C]O8)(O1)(O2)O9)(O3)O4
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 208
+Opening OQUFAJ01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 209
+Opening GEDXEV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr](O[C][O])(O[C][O])O[C]O[Zr]1234O[C]O[Zr@]5(O[C]O[Zr]67(O[C]O[Zr]8(O[C]O1)(O6)(O2)O[Zr](O[C]=O)(O[C]=O)(O7)(O3)O8)O5)O4
+Identified linker: Cc1c(C)c(C#Cc2ccc(C([O])=O)cc2)c(C)c(C)c1C#Cc1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 210
+Opening BIKNER.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2.O=[C]O[Zr]12(O[C]=O)O[C]O[Zr]3(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 211
+Opening ALIPEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 212
+Opening RUBTAK02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]123O[C]O[Zr@@]4(O[C]O[Zr]56(O[C]=O)(O4)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O2)(O5)O6)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 213
+Opening NIHGOD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]O[Zr]12(O[C][O])(O[Zr](O[C]=O)O[C]=O)O[Zr]3(O[C]=O)(O[C]O[Zr]4(O[C]=O)(O1)O[Zr](O[C][O])(O[C][O])(O[Zr](O[C]=O)O[C]=O)(O3)O4)O2
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 214
+Opening NIXCEF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]O[C]O[Zr]1234O[C]O[Zr]5(O[C]=O)(O1)(O2)O[Zr]12(O[C]=O)(O[C]O[Zr](O[C]O[Zr]O[C][O])(O3)(O4)(O1)O2)O5
+Identified linker: [I].[I].[I].[I].[O]C(=O)C1=CC2=[Cu]N3C=C(C([O])=O)C=C4[Cu]N([CH]1)C2=C43
+Saving linker
+Fragmenting MOF 215
+Opening NIHGUJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 216
+Opening WIZMAV01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.[O]O[Zr]1O[C]O[Zr](O[O])(O[O])O[C]O[Zr](O[O])(O[C]O[Zr](O[O])O[C]=O)(O[C]O[Zr](O[O])(O[O])(O[O])O[C]=O)O[C]O1.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 217
+Opening QURPAW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]456([O])O[C]O[Zr]78([O])(O[C]O[Zr]9([O])(O[C]O1)(O[C]O4)O[C]O[Zr]1(O[C]O2)(O[C]O7)(O[C]O[Zr]([O])(O[C]O3)(O[C]O5)(O[C]O8)O1)O9)O6
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cn2)nc1
+Saving linker
+Fragmenting MOF 218
+Opening UFORIT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O[C]O4)(O[C]O[Zr]1(O[C]O2)(O[C]O8)(O[C]O[Zr](O[C]O3)(O[C]O9)(O[C]O5)(O6)O1)O%10)O7.[OH].[OH].[OH].[OH]
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(C#Cc3ccc(C([O])=O)cc3)cc(C#Cc3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 219
+Opening OXOLIX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@]34O[C]O[Zr]O[C]O[Zr]5(O[C]O3)(O4)O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O2)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2c([O])c([O])c(C#Cc3ccc(C([O])=O)cc3)c([O])c2[O])cc1
+Saving linker
+Fragmenting MOF 220
+Opening HERHOE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Nc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(N)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 221
+Opening QURPOK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]45([O])O[C]O[Zr]67([O])(O[C]O1)O[C]O[Zr]1([O])(O[C]O4)(O[C]O[Zr]4([O])(O[C]O2)(O[C]O5)O[C]O[Zr]([O])(O[C]O3)(O[C]O6)(O[C]O1)O4)O7
+Identified linker: [O]C(=O)C1=CN2C(=C3C=CC(C([O])=O)=CN3[Fe]2(Br)Br)C=C1
+Saving linker
+Fragmenting MOF 222
+Opening DODBUV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10%11(O1)(O[C]O[Zr](O[C]O4)(O2)(O5)O[Zr](O[C]O%10)(O[C]O6)(O8)(O%11)O7)O9)O3
+Identified linker: [O]C(=O)c1ccc(cc1)/C/1=C/2\C=CC(=[NH]2)/C(=c\2/cc/c(=C(/C3=[NH]/C(=C(\c4[nH]c1cc4)/c1ccc(cc1)C(=O)[O])/C=C3)\c1ccc(cc1)C(=O)[O])/[nH]2)/c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 223
+Opening UNEJEE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2ccc(C([O])=O)cc2)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 224
+Opening HERJOG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 225
+Opening HERHUK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O7)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3cc(-c4ccc(C([O])=O)cc4)c(O)c(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2O)cc1
+Saving linker
+Fragmenting MOF 226
+Opening GAZGAS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:C[C]1O[Zr]23(OC=O)O[Zr@@]4(OC=O)O[C](C)O[Zr]5(OC=O)(O4)(O[Zr](OC=O)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O5)O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O3
+Identified linker: [O]C(=O)c1ccc2[nH]c3ccc(C([O])=O)cc3c2c1
+Saving linker
+Fragmenting MOF 227
+Opening RUBTAK03.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123O[C]O[Zr]456([O])O[C]O[Zr]78([O])(O[C]O1)O[C]O[Zr]19(O[C]O4)(O[C]O[Zr]4(O[C]O2)(O[C]O5)(O[C]O[Zr](O[C]O3)(O[C]O7)(O[C]O1)(O4)O9)O6)O8
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 228
+Opening ENOWUB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1234O[C]O[Zr]5678O[C]O[Zr]9(O[C]O1)(O[C]O[Zr]1(O[C]O5)(O[C]O[Zr]5(O[C]O6)(O2)(O[Zr](O[C][O])(O[C][O])(O[C][O])(O[C]O3)O5)O1)(O7)O9)(O8)O4
+Identified linker: [O]C(=O)c1ccc(/C=C/c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 229
+Opening UKIBIB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O[Zr](O[C]=O)O[Zr]23(O[C]=O)(O[C]=O)O[Zr]45(O[C]=O)O[C]O[Zr]6(O[C]O[Zr](O[C]=O)(O6)(O2)O3)(O1)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#CC#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 230
+Opening JOZXAZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]1234O[C]O[Zr]56(O[C]O[Zr](O[C]O1)(O[Zr](O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O5)(O6)(O2)O3)O4.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)C1=C2C=CC3=[N]2[Fe@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 231
+Opening GAYXIQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10%11(O1)(O[C]O[Zr](O[C]O4)(O2)(O5)O[Zr](O[C]O%10)(O[C]O6)(O8)(O%11)O7)O9)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(-c4cc(-c5ccc(C([O])=O)cc5)nc(-c5ccc(C([O])=O)cc5)c4)cc3)cc(-c3ccc(C([O])=O)cc3)n2)cc1
+Saving linker
+Fragmenting MOF 232
+Opening RAZVUM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr@]3(O[C]=O)O[C]O[Zr]45(O[C]O1)(O2)O[Zr]1(O[C]=O)(O[C]=O)O[C]O[Zr]26(O[C]O[Zr](O[C]=O)(O4)(O5)(O2)O6)(O3)O1.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc([CH][CH]c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 233
+Opening YEYDAJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr]456(O[C]O[Zr]789(O[C]O1)O[C]O[Zr]1(O[C]=O)(O[C]O2)(O7)O[Zr](O[C]=O)(O[C]=O)(O[C]O4)(O5)O[Zr](O[C]=O)(O[C]O6)(O8)(O9)O1)O3
+Identified linker: [O]C(=O)c1ccc(cc1)c1cc(CN=[N]=[N])c(cc1CN=[N]=[N])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 234
+Opening HICNOZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O7)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc(C#CC#Cc3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 235
+Opening ZESTID.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)cc(-c2ccc(C([O])=O)cc2)c1
+Saving linker
+Fragmenting MOF 236
+Opening SEMMIJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O].[O].[O][C]O[Zr]123(O[C][O])O[C]O[Zr]45O[C]O[Zr]6(O[C][O])(O[C][O])(O[C]O[Zr]7(O[C]O1)O[Zr]([O])([O])(O4)(O5)O7)O[Zr]([O])([O])(O2)(O3)O6
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 237
+Opening WUPTUY01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr]45(O[C]O[Zr]O[C]O[Zr]678(O[C]O[Zr@@](O[C]O[Zr](O[C]=O)(O4)(O1)(O6)O7)(O5)O8)O2)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C#Cc3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 238
+Opening WEYRIE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]O[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr]78(O[C]O[Zr](O[C][O])(O1)(O2)(O7)O8)(O5)O6)(O3)O4.[O][C]O[Zr]O[C][O]
+Identified linker: [O]C(=O)c1ccc([C]2C=C[C](C([C]3C=C[C](c4ccc(C([O])=O)cc4)C=C3)([C]3C=C[C](c4ccc(C([O])=O)cc4)C=C3)[C]3C=C[C](c4ccc(C([O])=O)cc4)C=C3)C=C2)cc1
+Saving linker
+Fragmenting MOF 239
+Opening MERGEY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2O[C]O[Zr@@]34O[C]O[Zr@]56O[C]O[Zr]537O[C]O[Zr](O[C]O[Zr](O1)[Zr]1O[Zr@]43O[Zr@@]7(O1)O3)[Zr@]13O[Zr]2O[Zr@]6(O1)O3
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Mn]245(n6c1ccc6C(=C1[N]4=C(C=C1)C(=c1n5c(=C3c3ccc(cc3)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])OO2
+Saving linker
+Fragmenting MOF 240
+Opening NEJMOH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C]=O)(O[C]=O)O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 241
+Opening ZOPLOH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]234(O[C][O])O[C]O[Zr]5O[C]O[Zr]67(O[C][O])(O1)O[Zr](O[C][O])(O[C][O])(O2)O[Zr](O[C]O5)(O[C]O3)(O4)(O6)O7.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2cc(O)c(-c3ccc(C([O])=O)cc3)cc2O)cc1
+Saving linker
+Fragmenting MOF 242
+Opening NEJMAT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C][O])(O[C][O])O3)(O4)O5.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 243
+Opening XIJVIY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@]34O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]7(O[C]O3)(O5)(O1)O[Zr](O[C]=O)(O[C]=O)(O6)(O2)O7)O4.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 244
+Opening ZOHYAZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O]O[Zr]1(O[O])O[C]O[Zr](O[O])(O[O])O[C]O[Zr](O[O])(O[O])O[C]O[Zr](O[O])(O[O])O[C]O1.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 245
+Opening BERNAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(P(c2ccc(C([O])=O)cc2)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 246
+Opening YIRQOI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)O3
+Identified linker: [O]C(=O)c1ccc(-c2nc(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)nc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 247
+Opening FIFFUX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Could not fragment this MOF, please check .cif file
+Fragmenting MOF 248
+Opening NEVSUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]45(O[C][O])(O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr](O[C][O])(O1)(O2)(O6)O7)(O4)O5)O3
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 249
+Opening BOHXAZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[O])(O[O])(O[O])O[C][O].[O][C]O[Zr](O[O])(O[O])(O[O])O[C][O].[O][C]O[Zr](O[O])O[C][O].[O][C]O[Zr](O[O])O[C][O].[O][C]O[Zr]O[C][O].[O][C]O[Zr]O[C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)c([O])c2)cc1[O]
+Saving linker
+Fragmenting MOF 250
+Opening GEDYAS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@]12O[C]O[Zr]34(O[C]O[Zr@]56O[C]O[Zr]7(O[C]O3)(O5)(O[Zr](O[C][O])(O[C][O])(O[C][O])O6)O[Zr](O[C][O])(O[C][O])(O1)(O4)O7)O2.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C#Cc3ccc(C([O])=O)cc3)c3nsnc23)cc1
+Saving linker
+Fragmenting MOF 251
+Opening QURNIC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr]45(O[C]=O)(O[C]O[Zr]67(O[C]O1)(O[C]O[Zr]18(O[C]=O)(O[C]O[Zr]9(O[C]=O)(O[C]O[Zr](O[C]=O)(O[C]O4)(O5)(O1)O9)(O6)O8)O7)O2)O3
+Identified linker: [O]C(=O)C1=CN2C(=C3C=CC(C([O])=O)=CN3[Cu]2(Cl)Cl)C=C1
+Saving linker
+Fragmenting MOF 252
+Opening FIPFAO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1O[C]O[Zr]23(O[C][O])O[Zr]4O[C]O[Zr]56(O[C]O[Zr]7(O[C]O4)(O2)(O5)O[Zr](O[C][O])(O[C][O])(O3)(O6)O7)O1.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)C1=C[CH]N([Fe](Br)(Br)(N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 253
+Opening BIKMUG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2.O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2
+Identified linker: [O]C(=O)c1ccc(-c2cccc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 254
+Opening MOFNED.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:C[C]1O[Zr]23O[C]O[Zr]45([O])(O[C]=O)O[C](C)O[Zr]67O[C]O[Zr]([O])(O[C]=O)(O1)(O4)O[Zr]([O])(O[C]=O)(O[C]O2)(O[C](C)O6)O[Zr]([O])(O[C]=O)(O[C]O7)(O[C](C)O3)O5
+Identified linker: [O]C(=O)c1ccc(N2C(=O)c3cc(Cl)c4c5c(Cl)cc6c7c(cc(Cl)c(c8c(Cl)cc(c3c48)C2=O)c75)C(=O)N(c2ccc(C([O])=O)cc2)C6=O)cc1
+Saving linker
+Fragmenting MOF 255
+Opening ERAMER.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]45O[C]O[Zr]67O[C]O[Zr](O[C]O[Zr](O[C]O4)(O6)O7)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O2)O3
+Identified linker: Cc1cc(C([O])=O)cc(C)c1-c1c(C)cc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 256
+Opening FIPDAM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]123(O[C]=O)O[Zr@]4(O[C]=O)O[C]O[Zr]56(O[C]O[Zr]7(O[C]O[Zr](O[C]=O)(O7)(O1)O5)(O4)O6)(O2)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)C1=C[CH]N([Co](N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 257
+Opening RUBLEH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123(O)O[C]O[Zr]456O[C]O[Zr]7(O[C]O[Zr](O[C]O4)(O[C]O1)(O5)O6)O[C]O[Zr]14(O)(O[C]O2)O[C]O[Zr](O)(O[C]O7)(O[C]O3)(O1)O4
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 258
+Opening GAZCUI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr]1O[Zr]23O[Zr](O[C]=O)[Zr]456(O[C]4O5)O[Zr]145(O[C]4O5)O[Zr]14(O[C]1O4)(O[Zr]14(O[C]1O4)(O6)[Zr](O[C]=O)O2)[Zr](O[C]=O)O3.[Zr]#[Zr]
+Identified linker: [O]C(=O)c1ccc(-n2c3ccc(C([O])=O)cc3c3cc(C([O])=O)ccc32)cc1
+Saving linker
+Fragmenting MOF 259
+Opening ZOHXIG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O[Zr]123(O)O[ZrH]4(O[ZrH]5(O4)O[Zr](O)(O)(O5)(O1)O2)O3.[OH].[OH].[O].[O]
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 260
+Opening ZATPIW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)CSC1=N[N]C(SCC([O])=O)=N[N]1
+Saving linker
+Fragmenting MOF 261
+Opening EMIYUW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56O[C]O[Zr]78(O[C]O[Zr]O[C]O[Zr]9(O[C]O5)(O7)(O8)O[Zr](O[C]=O)(O[C]O6)(O9)(O1)O2)(O3)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)cc(-c3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)c2)cc1
+Saving linker
+Fragmenting MOF 262
+Opening NEJGOB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr@]12O[C]O[Zr]345(O[C][O])O[Zr](O[C][O])(O[C][O])(O[Zr@]67O[C]O[Zr]O[C]O[Zr](O[C]O6)(O7)(O1)(O3)O4)(O2)O5.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2C(F)(F)F)c(C(F)(F)F)c1
+Saving linker
+Fragmenting MOF 263
+Opening SOQSAU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]23(O[C]=O)O[C]O[Zr]4(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O2)O[Zr](O[C]=O)(O[C]=O)(O4)O[Zr](O[C]=O)(O[C]=O)(O1)O3
+Identified linker: [O]C(=O)c1ccc2c(c1)C(=O)c1cc(C([O])=O)ccc1-2
+Saving linker
+Fragmenting MOF 264
+Opening ERANAO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123O[C]O[Zr]4567O[C]O[Zr](O[C]O[Zr]89%10(O[C]O1)O[C]O[Zr]1(O[C]O4)(O5)(O8)O[Zr](O[C]O6)(O[C]O9)(O7)(O%10)O1)(O2)O3.[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 265
+Opening NIKVEL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]8(O[C]O[Zr]9%10(O1)(O[C]O[Zr]1(O[C]O4)(O5)O[Zr](O[C]O9)(O[C]O6)(O1)(O%10)O7)O8)(O2)O3
+Identified linker: [O]C(=O)[C]1[C]=C(C([O])=O)N=N1
+Saving linker
+Fragmenting MOF 266
+Opening GEDXIZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]234O[C]O[Zr@@]56O[C]O[Zr](O[C]O2)(O[Zr](O[C]=O)(O[C]=O)O3)(O5)(O4)O[Zr](O[C]=O)(O[C]=O)(O1)O6.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(F)c(C#Cc3ccc(C([O])=O)cc3)cc2F)cc1
+Saving linker
+Fragmenting MOF 267
+Opening GINTUV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: Cn1c2c(-c3ccc(C([O])=O)cc3)cc(-c3ccc(C([O])=O)cc3)cc2c2cc(-c3ccc(C([O])=O)cc3)cc(-c3ccc(C([O])=O)cc3)c21
+Saving linker
+Fragmenting MOF 268
+Opening VIYRIH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(B2O[B]OB(c3ccc(C([O])=O)cc3)O2)cc1
+Saving linker
+Fragmenting MOF 269
+Opening QAGBUY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]456O[C]O[Zr]789%10O[C]O[Zr](O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O7)(O8)O[Zr](O[C]O3)(O[C]O9)(O6)(O%10)O1
+Identified linker: [O]C(=O)c1ccc([N]C(=O)c2ccc(-c3c4nc(c(-c5ccc(C(=O)Nc6ccc(C([O])=O)cc6)cc5)c5ccc([nH]5)c(-c5ccc(C(=O)Nc6ccc(C([O])=O)cc6)cc5)c5nc(c(-c6ccc(C(=O)[N]c7ccc(C([O])=O)cc7)cc6)c6ccc3[nH]6)C=C5)C=C4)cc2)cc1
+Saving linker
+Fragmenting MOF 270
+Opening VIKRUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O.O.O.[O].[O][C]O[Zr]12(OC=O)O[Zr@]3(O[C]=O)O[C]O[Zr@@]4(O[C]=O)O[C]O[Zr@@](O[C]=O)(O[C]O3)O[Zr]3(O[C][O])(OC=O)(O1)O[Zr](O[C][O])(OC=O)(O4)(O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc3c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c3cc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 271
+Opening BEQHIR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Ni@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 272
+Opening NEVLAE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]7(O[C]O[Zr](O[C]O2)(O3)O7)(O6)(O1)O[Zr](O[C]=O)(O[C]=O)O4)O5
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 273
+Opening QAJJOD01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]123([O])O[C]O[Zr]456O[C]O[Zr]78(O[C]O[Zr]9%10(O[C]O1)O[C]O[Zr]1(O[C]O4)(O[C]O2)(O[C]O[Zr](O[C]O5)(O[C]O9)(O[C]O7)(O8)O1)O%10)(O[C]O3)O6
+Identified linker: Cc1cc(-c2ccc(C([O])=O)c(C)c2)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 274
+Opening MANROL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Na]
+Identified linker: O=C([P])c1[c]cccc1
+Saving linker
+Fragmenting MOF 275
+Opening FINPOK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2O[C]O[Zr]345O[Zr]6O[C]O[Zr](O[Zr]7(O[C]O6)(O2)O[Zr](O1)(O7)O3)(O4)O5
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 276
+Opening NIXCIJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr@]7(O[C]O[Zr]O[C]O[Zr@](O[C]O4)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)O2)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [I].[I].[I].[I].[O]C(=O)C1=CC2=[Cu]N3C=C(C([O])=O)C=C4[Cu]N([CH]1)C2=C43
+Saving linker
+Fragmenting MOF 277
+Opening JOZWIG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]23(O[C]=O)O[C]O[Zr]456(O[C]O[Zr]7(O[C]O[Zr](O[C]=O)(O1)(O7)(O4)O5)(O2)O6)O3.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)/C/1=C/2\C=CC(=[NH]2)/C(=c\2/cc/c(=C(/C3=[NH]/C(=C(\c4[nH]c1cc4)/c1ccc(cc1)c1ccc(cc1)C(=O)[O])/C=C3)\c1ccc(cc1)c1ccc(cc1)C(=O)[O])/[nH]2)/c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 278
+Opening JETKIF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]456O[C]O[Zr]78(O[C]O[Zr]9(O[C]O[Zr](O[C]O[Zr](O1)(O9)(O4)O5)(O2)(O7)O8)O6)O3
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Rh]24(n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])Cl
+Saving linker
+Fragmenting MOF 279
+Opening TEWMUG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]1([O])O[Zr]2([O])([O])O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr]1([O])([O])O[Zr]([O])([O])(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O2)O1
+Identified linker: [O]C(=O)c1cc(/N=N/c2cc(C([O])=O)cc(C([O])=O)c2)cc(C([O])=O)c1
+Saving linker
+Fragmenting MOF 280
+Opening OXOLET.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]123O[C]O[Zr]4(O[C]O[Zr]567O[C]O[Zr](O[C]=O)(O1)(O5)O[Zr](O[C]=O)(O[C]=O)(O4)(O6)O7)(O2)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2c3o[c][c]oc3c(C#Cc3ccc(C([O])=O)cc3)c3o[c][c]oc23)cc1
+Saving linker
+Fragmenting MOF 281
+Opening XIJVIY02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]123O[C]O[Zr@](O[C]=O)(O1)O[Zr]145O[C]O[Zr]6(O[C]=O)(O2)(O1)O[Zr](O[C]=O)(O[C]O4)(O3)(O5)O6.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 282
+Opening NURDEL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]O[C]O[Zr]123O[C]O[Zr](O[C][O])(O[C][O])(O[Zr]4(O[C][O])(O[C][O])O[Zr]56(O[C][O])(O[C]O[Zr](O[C][O])(O4)(O1)(O5)O6)O2)O3.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(-c3ccc(C#Cc4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 283
+Opening RUKDIM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O[Zr]2345O[C]O[Zr](O[C]=O)(O1)(O[Zr](O[C]=O)(O[C]O[Zr]1(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)O1)O2)(O3)O4)O5.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 284
+Opening XUBGUY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.O[Zr]123(O)O[Zr]4(O)(O)(O1)O[Zr]1(O)(O)(O4)O[Zr](O)(O)(O2)(O3)O1.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc([Si](c2ccc(C([O])=O)cc2)(c2ccc(C([O])=O)cc2)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 285
+Opening ERANUI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C]=O)(O[C]=O)O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: C[C]1C2=C[C@H]3[C]4[C@@H]1[C@H]1[CH]C(=C(C)[C@@H]3[C@@]41C([O])=O)C#CC#CC1=C(C)[C@@H]3[C]4[C@H]([CH]1)[C@@H]1C(C)=C(C#CC#C2)[CH][C@H]3[C@]41C([O])=O
+Saving linker
+Fragmenting MOF 286
+Opening YUJWAD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Li]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 287
+Opening PAZDUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1234O[C]O[Zr]5(O[C]O[Zr]678O[Zr]9(O[C]O[Zr]%10%11%12O[C]O[Zr]%13%14(O[C][O])(O[C]O[Zr](O[C][O])(O[C]O%10)(O%11)(O%13)O%14)O%12)(O6)O[Zr]6%10%11(O[C][O])O[Zr]%12(O[C][O])(O9)(O6)O[Zr]6(O[C][O])(O7)(O[Zr](O[C][O])(O8)(O6)(O%10)O%11)O%12)(O[C]O[Zr](O[C][O])(O[C]O1)(O5)(O2)O3)O4.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1cnc(-c2ncc(C([O])=O)cn2)nc1
+Saving linker
+Fragmenting MOF 288
+Opening KOPJUX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr@]23O[C]O[Zr]456O[C]O[Zr]7(O1)(O[Zr@]1(O[C]O[Zr]8(O[C]O[Zr](O[C]O1)(O7)(O8)O4)(O2)O5)O3)O6.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc([CH][N][N][CH]c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 289
+Opening YESTAU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O].[O].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr@]12O[C]O[Zr]345(O[C]O[Zr@]([O])(O3)O[Zr]36(O[C]O[Zr@]([O])(O4)O3)(O[C]O[Zr@]([O])(O5)O6)O1)O2
+Identified linker: [O]C(=O)[C@H]1CNCCNC[C@H](C([O])=O)CNCCNC1
+Saving linker
+Fragmenting MOF 290
+Opening MUBZOA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr]3(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O2)O3
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(C#Cc3ccc(C([O])=O)cc3)cc(-c3cc(C#Cc4ccc(C([O])=O)cc4)cc(C#Cc4ccc(C([O])=O)cc4)c3)c2)cc1
+Saving linker
+Fragmenting MOF 291
+Opening PENVEM01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr]3(O[C]=O)(O1)O[Zr]1456O[C]O[Zr](O[C]O[Zr@@](O[C]O1)(O4)O[Zr](O[C]=O)(O[C]=O)(O3)(O5)O6)O2.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#CC#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 292
+Opening LOBDUE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1O[C]O[Zr](O[C][O])O[Zr]2345O[C]O[Zr@]6(O[C]O[Zr]7(O[C]O2)(O[Zr](O[C][O])(O[C][O])(O1)(O6)O7)(O3)O4)O5.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)c(S([O])([O])[O])c1
+Saving linker
+Fragmenting MOF 293
+Opening DUWYIF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)(O[C]=O)O[Zr]345O[C]O[Zr@]67O[C]O[Zr]8(O[C]O3)(O[C]O[Zr]3(O[C]O6)(O8)(O1)O[Zr](O[C]=O)(O[C]O7)(O4)(O2)O3)O5.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc([C](Br)[C](Br)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 294
+Opening ERANOC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr](O[C]=O)(O[C]O2)(O3)O6)(O1)O[Zr](O[C][O])(O[C]=O)(O4)(O5)O7
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)c(C)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 295
+Opening EWILIH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][CH]O[Zr](O[C]=O)O[Zr]1(O[C]=O)(O[CH][O])O[Zr]234O[C]O[Zr]56(O[Zr](O[C]=O)O[C]=O)(O[CH]O[Zr](O[C]O2)(O1)(O3)(O5)O6)O4.[O][CH][O].[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(C([O])=O)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 296
+Opening VIKROZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O.O.O.[O].[O].[O].[O][C]O[Zr@]12O[C]O[Zr@]3(O[C][O])O[C]O[Zr]([O])(O[C][O])(O[C]O1)O[Zr]14([O])(O[C][O])O[Zr]([O])(O[C][O])(O2)O[Zr]([O])(O[C][O])(O3)(O1)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc3c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c4cc(-c5ccc(C([O])=O)cc5)c(-c5ccc(C([O])=O)cc5)cc4c3cc2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 297
+Opening RUBLIL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123(O)O[C]O[Zr]45O[C]O[Zr]67O[C]O[Zr](O[C]O[Zr](O[C]O4)(O6)O7)(O[C]O1)O[C]O[Zr](O)(O)(O[C]O5)(O2)O3.[O][C]=O.[O][C]=O
+Identified linker: Cc1c(C)c(-c2ccc(C([O])=O)cc2)c(C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 298
+Opening HICBAZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr@]34O[C]O[Zr]567(O[C]O[Zr@]8(O[C]O[Zr](O[C]O[Zr@](O[C]=O)(O3)O4)(O8)(O1)(O5)O6)O7)O2.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2cc(C#CC#Cc3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 299
+Opening ZOHXEC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]12(O)(O)O[Zr]O[ZrH]3(O)O[ZrH](O3)(O1)O2.O=[C]O[Zr]O[C]=O.[OH].[OH].[OH].[OH].[O].[O].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 300
+Opening FINMAT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]456O[C]O[Zr]78(O[C]O[Zr]9(O[C]O[Zr](O[C]O[Zr](O1)(O9)(O4)O5)(O2)(O7)O8)O6)O3
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 301
+Opening RUBTAK08.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr]56(O[C]O[Zr]789(O[C]O1)O[C]O[Zr]1%10(O[C]O5)(O[C]O[Zr]5(O[C]O6)(O[C]O2)(O[C]O[Zr](O[C]O3)(O[C]O7)(O[C]O1)(O8)O5)O%10)O9)O4
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 302
+Opening NIHHEU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr](O[C]O2)(O3)O6)(O1)O[Zr](O[C][O])(O[C][O])(O4)(O5)O7
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 303
+Opening ERALOA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3.[O].[O].[O].[O].[O].[O].[O].[O]
+Identified linker: II.II.[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[CH].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C].[C]#[C].[C]=O.[C]=O.[C]=O.[C]=O.[C]=O.[C]=[CH].[C]=[CH].[C][C].[C][C].[C][C].[C][C][C]([C])[C].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[H].[I].[I].[I].[I].[I].[I].[I].[I].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O].[O][C]=O
+Saving linker
+Fragmenting MOF 304
+Opening ZOGROF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 305
+Opening BESKUI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr]567O[C]O[Zr]89%10O[C]O[Zr]%11([O])(O[C]O1)(O[C]O[Zr](O[C]O8)(O[C]O5)(O[C]O2)(O9)O%11)O[C]O[Zr](O[C]O6)(O[C]O%10)(O[C]O3)(O7)O4
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 306
+Opening OFOJAX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2c(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)c2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 307
+Opening SOLHUZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 308
+Opening FIPDOA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]123O[C]O[Zr]4O[C]O[Zr]56(O[C]O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O4)O[Zr](O[C]=O)(O[C]=O)(O3)(O5)O6.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccncc1
+Saving linker
+Fragmenting MOF 309
+Opening ERAMIV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]78(O[C]O[Zr](O[C]O2)(O3)(O4)(O7)O8)(O1)O6)O5.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O]
+Identified linker: [I].[O]C(=O)C1=CN2[Cu]N3[CH]C(C([O])=O)=CN4C3=C2N([CH]1)[Cu]4I
+Saving linker
+Fragmenting MOF 310
+Opening ISENAX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O][Zr]123O[C]O[Zr]456([O])O[C]O[Zr]78([O])(O[C]O1)O[C]O[Zr]19(O[C]O4)(O[C]O[Zr]4(O[C]O2)(O[C]O5)(O[C]O[Zr](O[C]O3)(O[C]O7)(O[C]O1)(O4)O9)O6)O8
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 311
+Opening SOLHOT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 312
+Opening JAYDIZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr].[O]O[Zr].[O]O[Zr].[O]O[Zr]O[O].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr](O[O])(O[C]=O)(O[C]=O)OO[Zr]O[O]
+Identified linker: [O]C(=O)C1=CC=C2C3=CC=C(C([O])=O)[CH]N3[Ni](Br)(Br)N2[CH]1
+Saving linker
+Fragmenting MOF 313
+Opening QEMGOH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]7(O[C]O[Zr](O[C]O2)(O3)O7)(O1)(O[Zr](O[C][O])(O[C][O])O4)O6)O5
+Identified linker: [O]C(=O)c1cc(S([O])([O])[O])c2cc(C([O])=O)cc(S([O])([O])[O])c2c1
+Saving linker
+Fragmenting MOF 314
+Opening WUHCEJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@]1(O[C]=O)O[Zr@](O[C][O])(O[C]=O)O[Zr]2(O[C][O])(O[C]=O)O[C]O[Zr](O)(O[C][O])(O[Zr@@](O[C][O])(O[C]=O)O2)O[Zr](O)(O[C][O])(O[C]=O)O1
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)s2)s1
+Saving linker
+Fragmenting MOF 315
+Opening RIBCAJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]456O[C]O[Zr]789%10O[C]O[Zr](O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O7)(O8)O[Zr](O[C]O3)(O[C]O9)(O6)(O%10)O1
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(C#Cc3ccc(C([O])=O)cc3)c(C#Cc3ccc(C([O])=O)cc3)cc2C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 316
+Opening RUBTAK09.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]123([O])O[C]O[Zr]456O[C]O[Zr]789O[C]O[Zr]%10(O[C]O4)(O[C]O1)(O[C]O[Zr]1(O[C]O7)(O[C]O2)(O[C]O[Zr](O[C]O5)(O[C]O8)(O[C]O3)(O9)O1)O%10)O6
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 317
+Opening IFUCAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 318
+Opening WEYREA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C(c3ccc(-c4ccc(C([O])=O)cc4)cc3)(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 319
+Opening NUSXEG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]O[C]O[Zr]2O[C]O[Zr]34(O[C]O[Zr]5(O[C]O[Zr@@]6(O[C]O[Zr](O1)O6)O5)(O3)O4)O2
+Identified linker: [O]O[Fe]123[N]4=C5C=CC4=C(c4n2c(C(=C2[N]1=C(C=C2)C(=c1n3c(=C5c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])cc4)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 320
+Opening IXEJIG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56O[C]O[Zr]78(O[C]O[Zr]O[C]O[Zr]9(O[C]O5)(O1)(O2)O[Zr](O[C]=O)(O[C]O6)(O7)(O8)O9)(O3)O4
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 321
+Opening NEJNEY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]4O[C]O[Zr]5O[C]O[Zr]67(O[C]O[Zr](O[C]O4)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 322
+Opening RIBRUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Nc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(N)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 323
+Opening JOZWIG02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[Zr]123(O[C]=O)O[C]O[Zr@@]4(O[C]=O)O[Zr@]5(O[C]=O)O[C]O[Zr]67(O[C]O[Zr](O[C]O1)(O5)(O2)(O6)O7)(O4)O3.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)/C/1=C/2\C=CC(=[NH]2)/C(=c\2/cc/c(=C(/C3=[NH]/C(=C(\c4[nH]c1cc4)/c1ccc(cc1)c1ccc(cc1)C(=O)[O])/C=C3)\c1ccc(cc1)c1ccc(cc1)C(=O)[O])/[nH]2)/c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 324
+Opening NEJPAW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr](O[C]O[Zr@]67O[C]O[Zr@](O[C]O2)(O6)O7)(O1)(O[Zr](O[C]=O)(O[C]=O)O3)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 325
+Opening XICYUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr].[OH].[OH].[O].[O][Zr]12([O])(O[C]=O)O[Zr]([O])(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O[Zr]O)(O1)O[Zr](O[C]=O)(O[C]=O)(O[C]=O)(O[C]=O)O2
+Identified linker: [O]C(=O)c1ccc(C([O])=O)s1
+Saving linker
+Fragmenting MOF 326
+Opening SELLED.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[C]1=[C]O[Zr]2345O[C]=[C]O[Zr]67(O[C]=[C]O[Zr]89(O[C]=[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: O=C1C(=O)C(=O)C1=O
+Saving linker
+Fragmenting MOF 327
+Opening GAYXEM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10%11(O1)(O[C]O[Zr](O[C]O4)(O2)(O5)O[Zr](O[C]O%10)(O[C]O6)(O8)(O%11)O7)O9)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc([C]=O)cc3)cc(-c3ccc(-c4cc(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c4)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 328
+Opening DUWYEB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr](O[C]=O)O[C]=O.[O]O[Zr](O[O])(O[C]=O)O[C]=O.[O]O[Zr](O[O])(O[O])(O[O])(O[C]=O)O[C]=O.[O]O[Zr]1(O[C]=O)(O[C]=O)O[C]O[Zr]O[C]O[Zr]O[C]O1.[O][C]=O
+Identified linker: [O]C(=O)c1ccc([CH][CH]c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 329
+Opening HICNUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]1234O[C]O[Zr@]5([O])O[Zr@]([O])(O[C]O[Zr]([O])(O[Zr](O[C]=O)(O[C]=O)O1)(O[Zr](O[C]=O)(O[C]=O)O2)(O3)O4)O5
+Identified linker: [O]C(=O)c1ccc(-c2cc(C#CC#Cc3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 330
+Opening TISNUH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O].[O].[O][C]O[Zr](O[C][O])(O[C][O])O[C][O].[O][Zr]1234O[C]O[Zr]56O[C]O[Zr]7([O])(O1)(O2)O[Zr]1([O])(O[C]O5)(O7)O[Zr]([O])(O[C]O6)(O3)(O4)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 331
+Opening NIXBUU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr@]1(O[C]=O)O[Zr]23([O])(O[C]O[Zr@](O[C]=O)(O2)O[Zr]24([O])(O[C]O[Zr@](O[C]=O)(O3)O2)O[Zr@](O[C][O])(O[C]=O)O4)O1
+Identified linker: Nc1cc(C([O])=O)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 332
+Opening FIPCEP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr@@]34O[C]O[Zr]56(O[C]O[Zr]7(O[C]O3)(O1)(O5)O[Zr](O[C][O])(O[C][O])(O2)(O6)O7)O4.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccncc1
+Saving linker
+Fragmenting MOF 333
+Opening HERJAS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]5O[C]O[Zr]67(O[C]O[Zr]8O[C]O[Zr]9(O[C]O5)(O1)(O2)O[Zr](O[C]=O)(O[C]O8)(O6)(O7)O9)(O3)O4
+Identified linker: COc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(OC)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 334
+Opening SURKEX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr]3O[C]O[Zr]4O[C]O[Zr]5(O[C]O3)(O4)O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O5)(O2)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)c(N([O])OON([O])c2cc(C([O])=O)ccc2C([O])=O)c1
+Saving linker
+Fragmenting MOF 335
+Opening OQUGUE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2O)c(O)c1
+Saving linker
+Fragmenting MOF 336
+Opening WIZMAV09.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@@]12O[C]O[Zr]3O[C]O[Zr@@](O[C]=O)(O3)O[Zr]34(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O2)(O3)O4.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 337
+Opening HERHAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)cc(-c3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)c2)cc1
+Saving linker
+Fragmenting MOF 338
+Opening SANHIY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O1
+Identified linker: [O]C(=O)C#CC([O])=O
+Saving linker
+Fragmenting MOF 339
+Opening IZIBUQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O].[O].[O][Zr]123([O])O[C]O[Zr]45O[C]O[Zr]([O])([O])(O[C]O[Zr]6(O[C]O1)O[C]O[Zr]1([O])([O])(O[C]O4)O[Zr]([O])([O])(O[C]O5)(O[C]O6)O1)(O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2[c]c(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)[c]c2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 340
+Opening WIZMAV08.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]123O[C]O[Zr]45(O[C]O[Zr]6(O[C]=O)(O4)(O1)O[Zr](O[C]=O)(O[C]=O)(O[Zr](O[C]=O)(O[C]=O)O5)(O2)O6)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 341
+Opening WUHDAG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]1(O[C]=O)(O[C]=O)O[Zr]234O[C]O[Zr]567(O[C]O[Zr@@](O[C]=O)(O5)O[Zr](O[C]O2)(O[C]O6)(O1)(O3)O7)O4.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)C#Cc1ccc(cc1)C1=C2C=CC3=[N]2[Ni@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C#Cc2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C#Cc1ccc(cc1)C(=O)[O])c1ccc(cc1)C#Cc1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 342
+Opening NIHGAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 343
+Opening LEGGOW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@@]12O[C](C(F)(F)F)O[Zr]345O[C](C(F)(F)F)O[Zr]6(O[C]=O)(O1)O[Zr]1(O[C](C(F)(F)F)O[Zr@](O[C]=O)(O[Zr](O[C]=O)(O[C](C(F)(F)F)O1)(O3)O4)O5)(O2)O6.[O]C(=O)C(F)(F)F.[O]C(=O)C(F)(F)F.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(N(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 344
+Opening GERXIN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]O[Zr@@]34O[C]O[Zr]567(O[C]O[Zr@](O[C]O2)(O5)O[Zr](O[C]=O)(O[C]=O)(O3)(O6)O7)O4)O1
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 345
+Opening JOZWIG01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]23(O[C][O])(O[C][O])O[C]O[Zr]456(O[C]O[Zr]7(O[C]O[Zr](O[C][O])(O2)(O7)O4)(O1)(O5)O6)O3.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(/C3=C4\C=C/C(=C(\c5ccc(-c6ccc(C([O])=O)cc6)cc5)C5=N/C(=C(/c6ccc(-c7ccc(C([O])=O)cc7)cc6)C6=CC=C([N]6)/C(c6ccc(-c7ccc(C([O])=O)cc7)cc6)=C6/C=CC3=N6)C=C5)[N]4)cc2)cc1
+Saving linker
+Fragmenting MOF 346
+Opening NEJNOI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]O[Zr@]12O[C]O[Zr]O[C]O[Zr]345(O[C]O[Zr@@]6(O[C]O[Zr]7(O[C][O])(O[Zr](O[C][O])(O[C][O])(O1)(O6)O7)(O3)O4)O5)O2.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cn2)nc1
+Saving linker
+Fragmenting MOF 347
+Opening NEJNAU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]234O[C]O[Zr](O[C]O[Zr]567(O[C]O[Zr](O[C]O2)(O[Zr](O[C]=O)(O[C]=O)O5)(O6)O7)O1)(O3)O4.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 348
+Opening SELKIG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr](O[C]=O)(O[C]=O)O[C]O[Zr]7(O[C]O[Zr](O[C]=O)(O[C]=O)O[C]O4)(O1)(O2)O[Zr]([O])(O[C]=O)(O5)(O6)O7)O3
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 349
+Opening POGMEG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]234O[C]O[Zr]5(O[C]O[Zr@]67O[C]O[Zr@](O[C]O[Zr]89(O[C]O[Zr](O1)(O5)(O8)O9)O2)(O6)O7)(O3)O4.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 350
+Opening QEFWUV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]5(O[C]=O)(O1)(O2)O[Zr]12(O[C]=O)(O[C]O[Zr]O[C]O[Zr](O[C]=O)(O1)(O2)(O3)O4)O5
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Fe]24(n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])Cl
+Saving linker
+Fragmenting MOF 351
+Opening OFOJEB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:C[C]1O[Zr@]2(O[C]=O)O[C]O[Zr]345(OC(C)=O)O[C]O[Zr]67(O[C][O])(O[C]O[Zr](O[C][O])(O[C]O[Zr]([O])(O[C](C)O3)(O2)(O4)O6)(O1)O[Zr]([O])([O])(O[C][O])O7)O5
+Identified linker: [O]C(=O)c1ccc(-c2c(-c3cc[c]cc3)c(-c3ccc(C([O])=O)cc3)c(-c3ccc(C([O])=O)cc3)c(-c3cc[c]cc3)c2-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 352
+Opening BOHJOZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[O])(O[O])O[C][O].[O][C]O[Zr](O[O])(O[O])O[C][O].[O][C]O[Zr](O[O])O[C][O].[O][C]O[Zr](O[O])O[C][O].[O][C]O[Zr](O[O])O[C][O].[O][C]O[Zr](O[O])O[C][O]
+Identified linker: [O]C(=O)/C=C/C([O])=O
+Saving linker
+Fragmenting MOF 353
+Opening UKUDEL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr@]1([O])O[Zr]2([O])(O[C][O])O[Zr]3([O])(O[C][O])O[Zr]4([O])(O[C][O])(O1)O[Zr]([O])(O[C][O])(O2)(O3)O4.[O][C]O[Zr][O].[O][C][O].[O][C][O].[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)[C]1[CH][CH][C](C([O])=O)[CH][CH]1
+Saving linker
+Fragmenting MOF 354
+Opening QURNUO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]45([O])O[C]O[Zr]67([O])(O[C]O1)O[C]O[Zr]1([O])(O[C]O4)(O[C]O[Zr]4([O])(O[C]O2)(O[C]O5)O[C]O[Zr]([O])(O[C]O3)(O[C]O6)(O[C]O1)O4)O7
+Identified linker: [O]C(=O)C1=CC=C(c2ccc(C([O])=O)cn2)[N][CH]1
+Saving linker
+Fragmenting MOF 355
+Opening ISENEB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]1234O[C]O[Zr@@]56O[C]O[Zr]7(O[C]O1)(O[Zr@]1(O[C]O[Zr]8(O[C]O[Zr](O[C]O1)(O8)(O7)O2)(O5)O3)O6)O4
+Identified linker: [O]C(=O)/C=C/C=C/C([O])=O
+Saving linker
+Fragmenting MOF 356
+Opening NEVSUF03.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]4(O[C][O])(O[C][O])(O1)O[Zr]156(O[C]O[Zr]O[C]O[Zr](O[C]O[Zr]O[C]O1)(O2)(O3)(O5)O6)O4
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 357
+Opening QURPIE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2345O[C]O[Zr]678(O[C]O[Zr]9%10(O[C]O[Zr]%11%12(O[C]O[Zr]%13(O[C]O[Zr](O1)(O[C]O6)(O[C]O%11)(O2)O%13)(O[C]O3)(O[C]O9)O%12)(O[C]O7)O%10)(O[C]O4)O8)O5.[O].[O]
+Identified linker: [O]C(=O)C1=CN2C(=C3C=CC(C([O])=O)=CN3[Cu]2(Cl)Cl)C=C1
+Saving linker
+Fragmenting MOF 358
+Opening NADYUP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr@@]23O[C]O[Zr]45(O[C]O[Zr](O[C]O[Zr]678O[C]O[Zr]9(O[C]O[Zr@@](O1)(O9)O6)(O7)O8)(O2)(O4)O5)O3
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Co@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 359
+Opening TETSET.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]12(O[C]=O)O[C]O[Zr]34(O[C]O[Zr]5O[C]O[Zr]6(O[C]=O)(O5)(O3)O[Zr](O[C]=O)(O[C]=O)(O1)(O4)O6)O2.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc([N][N]c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 360
+Opening NEVSUF02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]45(O[C][O])(O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr](O[C][O])(O1)(O2)(O6)O7)(O4)O5)O3
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 361
+Opening EMIZAD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O5)(O6)O[Zr](O[C]=O)(O[C]=O)(O7)(O1)O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc3cc(-c4ccc(C([O])=O)cc4)cc4c5cc(-c6ccc(C([O])=O)cc6)cc6cc(-c7ccc(C([O])=O)cc7)cc(c(c2)c34)c65)cc1
+Saving linker
+Fragmenting MOF 362
+Opening FIPFES.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O[C][O])O[Zr]12(O[C][O])O[C]O[Zr]345(O[C]O[Zr]6(O[Zr](O[C][O])O[C][O])(O[C]O[Zr](O[C][O])(O1)(O6)(O3)O4)O5)O2.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)C1=C[CH]N([Fe](I)(I)(N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 363
+Opening SURLEY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr]567O[C]O[Zr]89%10O[C]O[Zr]%11([O])(O[C]O5)(O[C]O1)O[C]O[Zr](O[C]O8)(O[C]O2)(O[C]O[Zr](O[C]O6)(O[C]O9)(O[C]O3)(O7)O4)(O%10)O%11
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 364
+Opening ERAMAN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1cc([N+](=O)[O-])c(-c2c([N+](=O)[O-])cc(C([O])=O)cc2[N+](=O)[O-])c([N+](=O)[O-])c1
+Saving linker
+Fragmenting MOF 365
+Opening WUPTUY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[Zr@]34O[C]O[Zr]O[C]O[Zr]5(O[C]=O)(O1)O[Zr]16(O[C]O3)(O[C]O[Zr](O[C]=O)(O2)(O5)(O1)O6)O4.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C#Cc3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 366
+Opening FIPDEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])O[Zr]34(O[C][O])O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr](O[C][O])(O1)(O5)O[Zr](O[C][O])(O[C][O])(O2)(O3)O6)O4.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)C1=C[CH]N([Co](N2[CH]C=C(C([O])=O)C=C2)(N2[CH]C=C(C([O])=O)C=C2)N2[CH]C=C(C([O])=O)C=C2)C=C1
+Saving linker
+Fragmenting MOF 367
+Opening BOHWUS.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr]123O[C]O[Zr@@]4(O[C]O[Zr@@](O[C]O1)(O4)O2)O3.[O]O[Zr]123O[C]O[Zr@@]4(O[C]O[Zr@@](O[C]O1)(O4)O2)O3
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(C([O])=O)c1
+Saving linker
+Fragmenting MOF 368
+Opening MAFWEY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1O[C]O[Zr]234(O[C][O])O[Zr]5O[C]O[Zr]6(O[C]O[Zr]7(O[C]O5)(O1)(O6)O[Zr](O[C][O])(O[C][O])(O2)O7)(O3)O4.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc([N][N]c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 369
+Opening FINMEX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123O[C]O[Zr]456O[C]O[Zr]7(O[C]O[Zr]8(O[C]O[Zr]9(O[C]O4)(O5)O[Zr](O[C]=O)(O[C]O8)(O6)O9)(O7)O1)(O2)O3
+Identified linker: [O]C(=O)c1cc(C([O])=O)cc(-c2ccc(-c3cc(C([O])=O)cc(C([O])=O)c3)cc2)c1
+Saving linker
+Fragmenting MOF 370
+Opening NIHHOE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr@]12O[C]O[Zr]3456O[C]O[Zr@]78O[C]O[Zr]9(O[C]O[Zr](O[C]O[Zr](O[C]O7)(O8)(O1)(O3)O4)O9)(O2)(O5)O6
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)c(C)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 371
+Opening ERALEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: COc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1OC
+Saving linker
+Fragmenting MOF 372
+Opening VACLIX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[Zr@]23O[C]O[Zr@]45O[Zr](O[C]=O)O[Zr@](O[C]O[Zr@](O1)(O2)O3)(O4)O5.[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH].[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Ir]24(n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])(Cl)Cl
+Saving linker
+Fragmenting MOF 373
+Opening QOKBOJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]456O[C]O[Zr]78(O[C]O[Zr]9(O[C]O[Zr](O[C]O[Zr](O1)(O9)(O4)O5)(O2)(O7)O8)O6)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)cc(-c3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 374
+Opening ZATPOC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)CSc1nnc(SCC([O])=O)nn1
+Saving linker
+Fragmenting MOF 375
+Opening ERANES.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]O[C][O].[O][C]O[Zr]O[C][O].[O][Zr]1234O[C]O[Zr]5([O])(O1)(O2)O[Zr]12([O])(O[C]O[Zr]([O])(O1)(O2)(O3)O4)O5
+Identified linker: Cc1cc(C([O])=O)ccc1C#CC#Cc1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 376
+Opening NIHHUK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2345O[C]O[Zr]6(O[C]O[Zr](O[C]O[Zr@]7(O[C]=O)O[Zr@](O[C]=O)(O[C]O2)O7)(O6)(O1)(O3)O4)O5.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)c(C)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 377
+Opening DAQPET01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr][Zr]1234O[C]O[Zr@]5(O[C]O[Zr@]67O[C]O[Zr]89([Zr])(O[C]O[Zr](O[C]O[Zr](O[C]O1)(O2)(O3)[Zr]O[Zr]5)(O8)(O9)[Zr]O[Zr]6)O7)O4
+Identified linker: [O][C][Co]123([C][O])[N]4=C5C=CC4=C(c4n2c(C(=C2[N]1=C(C=C2)C(=c1n3c(=C5c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])cc4)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 378
+Opening KINGUM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]1(O)O[C]O[Zr]2345O[C]O[Zr]6(O)(O)O[C]O[Zr]78(O[C]O[Zr](O)(O)(O[C]O[Zr](O[C]O1)(O[C]O2)(O[C]O7)(O3)O8)O6)(O[C]O4)O5.[C]1O[Zr]O[C]O[Zr]2345O[C]O[Zr]6O[C]O[Zr]78(O[C]O[Zr](O[C]O[Zr](O1)(O[C]O2)(O[C]O7)(O3)O8)O6)(O[C]O4)O5.[OH].[OH].[OH].[OH].[OH].[OH].[OH].[OH]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 379
+Opening EWILON.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]1234O[C]O[Zr]56(O[C]O[Zr]78(O[C]O1)O[C]O[Zr]19(O[C]O5)(O[C]O[Zr]5([O])(O[C]O6)(O[C]O2)O[C]O[Zr](O[C]O7)(O[C]O3)(O[C]O1)(O5)O9)O8)O4
+Identified linker: Nc1cc(C([O])=O)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 380
+Opening REBPIA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]123O[C]O[Zr]456O[C]O[Zr]78([O])(O[C]O[Zr]9([O])(O[C]O1)(O[C]O[Zr]1([O])(O[C]O4)(O[C]O7)O[C]O[Zr](O[C]O2)(O[C]O5)(O[C]O9)(O6)O1)O8)O3
+Identified linker: [O]C(=O)c1ccc(C([O])=O)c2cc(-c3[c]cc4c(C([O])=O)ccc(C([O])=O)c4c3)[c]cc12
+Saving linker
+Fragmenting MOF 381
+Opening RUBYUK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]234O[C]O[Zr]567O[C]O[Zr]89%10O[C]O[Zr]%11(O1)(O[C]O[Zr](O[C]O5)(O2)(O3)(O8)O9)O[Zr](O[C]O4)(O[C]O%10)(O%11)(O6)O7.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O][C]([O])/C=C/c1ccc(-c2ccc(/C=C/[C]([O])[O])cc2)cc1
+Saving linker
+Fragmenting MOF 382
+Opening OFAVUO.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]2(O[C][O])(O[C][O])O[Zr]345O[C]O[Zr]67(O[C]O[Zr](O[C]O3)(O2)(O4)(O6)O7)(O1)O5.[O][C]O[Zr]O[C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 383
+Opening UHOVEU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1O[C]O[Zr@]23O[C]O[Zr@@]4(O[C]O[Zr]567(O[C]O[Zr](O[C]=O)(O1)(O[Zr](O[C]=O)(O[C]=O)(O2)O5)(O6)O7)O4)O3.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(cc1)c1ccc(cc1)C1=C2C=CC3=[N]2[Cu@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 384
+Opening BOGNES.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: O=C1OC12C=C[C]([C]=C=C1C=[C][CH]c3ccccc31)C=C2.O=C1O[C@]12[CH]C=C([C]=C=C1C=[C][CH]c3ccccc31)C=C2
+Saving linker
+Fragmenting MOF 385
+Opening NEVHII.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]O[Zr@@]34O[C]O[Zr]567(O[C]O[Zr@](O[C]O2)(O5)O[Zr](O[C]=O)(O[C]=O)(O3)(O6)O7)O4)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 386
+Opening NIXCAB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]56(O[C]O[Zr]7O[C]O[Zr]89(O[C]O[Zr](O[C]O7)(O8)(O9)(O1)O2)(O5)O6)(O3)O4.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 387
+Opening OQIKOQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O]O[Zr]1234OO[Zr]567O[Zr]589OO[Zr]15(O[Zr]51%10OO[Zr]85(O9)O[Zr]589OO[Zr]15%11(OO[Zr]51%12(OO[Zr]85(O[Zr]65(OO[Zr]21(O3)O%12)O7)O9)O%11)O%10)O4.[O][O].[O][O].[O][O].[O][O].[O][O].[O][O].[O][O].[O][O].[O][O].[O][O]
+Identified linker: O1OC12OO2.O1OC12OO2.O1OC12OO2.[c]1ccc(-c2cc(-c3cc[c]cc3)cc(-c3cc[c]cc3)c2)cc1
+Saving linker
+Fragmenting MOF 388
+Opening BOHXED.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)C1=CC(C([O])=O)=N[N]1
+Saving linker
+Fragmenting MOF 389
+Opening FEVWOV.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]5O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr]8(O[C]O5)(O6)(O7)O[Zr](O[C]=O)(O[C]=O)(O8)(O1)O2)(O3)O4
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2ccc(C([O])=O)cc2)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 390
+Opening BUNLAZ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr](O[C]O[Zr]89%10(O1)O[C]O[Zr]1(O[C]O4)(O8)(O5)O[Zr](O[C]O9)(O[C]O6)(O%10)(O7)O1)(O2)O3
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C(=C(c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)c3ccc(-c4ccc(C([O])=O)cc4)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 391
+Opening ERAMUH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]O[Zr@@]34O[C]O[Zr]56(O[C]=O)(O3)O[Zr@@](O[C]=O)(O[C]O2)O[Zr](O[C]=O)(O[C]=O)(O4)(O5)O6)O1.[O][C]=O
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 392
+Opening CEMBII.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])(O[C][O])O[Zr]234O[C]O[Zr@]56O[C]O[Zr]78(O[C]O2)(O[C]O[Zr](O[C][O])(O3)(O4)O[Zr](O[C][O])(O[C]O5)(O1)(O7)O8)O6.[O][C][O].[O][C][O]
+Identified linker: COc1cc(-c2ccc(C([O])=O)cc2)c(O)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 393
+Opening JOGZIR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]567(O[C]=O)O[Zr](O[C]=O)(O[C]O[Zr]O[C]O[Zr](O[C]=O)(O1)(O2)(O5)O6)(O3)(O4)O7
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3c4c2CCC42CCc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c(c42)OP([O])(=O)O3)cc1
+Saving linker
+Fragmenting MOF 394
+Opening ADAQAA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O.O.O.O.O.O.O.O.O1[Zr]23O[Zr]14O[Zr]1(O4)O[Zr](O2)(O3)O1.O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr](O[C]=O)O[C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc3c(c2)C2(c4cc(-c5ccc(C([O])=O)cc5)ccc4-3)c3cc(-c4ccc(C([O])=O)cc4)ccc3-c3ccc(-c4ccc(C([O])=O)cc4)cc32)cc1
+Saving linker
+Fragmenting MOF 395
+Opening NEVSUF01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]2345O[C]O[Zr]6(O[C]O[Zr]7(O[C]O[Zr](O[C]O2)(O3)O7)(O1)(O[Zr](O[C][O])(O[C][O])O4)O6)O5
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 396
+Opening ITONAI02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 397
+Opening WOKFEK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]5(O[C][O])(O1)(O2)O[Zr]1(O[C][O])(O[C]=O)(O5)O[Zr](O[C][O])(O[C]=O)(O3)(O4)O1
+Identified linker: [O]C(=O)c1ccc(C#Cc2cc(C#Cc3ccc(C([O])=O)cc3)cc(C#Cc3ccc(C([O])=O)cc3)c2)cc1
+Saving linker
+Fragmenting MOF 398
+Opening ZOHYED.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: N.[C]=C(/C=C\C(=[CH])C([O])=O)C([O])=O
+Saving linker
+Fragmenting MOF 399
+Opening NEVDIE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 400
+Opening SURKAT.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]1234O[C]O[Zr@]5(O[C]O[Zr]67(O[C]O[Zr]8(O[C]O[Zr](O[C]=O)(O8)(O1)O6)(O5)O7)(O2)O3)O4.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Nc1cc(C([O])=O)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 401
+Opening HIXDAW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]8(O[C]O2)(O4)(O5)O[Zr]24(O[C]O3)(O[C]O[Zr](O1)(O2)(O4)(O6)O7)O8
+Identified linker: COc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(OC)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 402
+Opening DOGBAE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr@@]23O[C]O[Zr]45(O[C]O[Zr](O[C]O[Zr]678O[C]O[Zr]9(O[C]O[Zr@@](O1)(O9)O6)(O7)O8)(O2)(O4)O5)O3
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Zr@@]24n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 403
+Opening BEDYEQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(cc1)C1=C2C=CC3=[N]2[Fe]24(n5c1ccc5C(=C1[N]2=C(C=C1)C(=c1n4c(=C3c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])Cl
+Saving linker
+Fragmenting MOF 404
+Opening GATQOK.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:CC(=O)O[Zr]12(O[C]=O)O[C]O[Zr@@]34O[C]O[Zr]56(O[C]=O)(O[Zr@@]7(O[C]O[Zr@@](O[C]=O)(O3)O[Zr](O[C]=O)(O[C]O7)(O4)(O5)O6)O1)O2.[O][C][O]
+Identified linker: [O]C(=O)c1ccc(cc1)C1=NC(=[N]=C([N]1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 405
+Opening OQUFOX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1(O[C][O])O[Zr]23(O[C][O])(O[C]O[Zr]4(O[C]O[Zr]5(O[C][O])(O1)(O4)O[Zr](O[C]=O)(O[C]=O)O5)O2)O[Zr](O[C]=O)(O[C]=O)O3
+Identified linker: [O]C(=O)c1c(F)c(F)c(C([O])=O)c(F)c1F
+Saving linker
+Fragmenting MOF 406
+Opening BIZNOQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 407
+Opening RAZVOG01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]12(O[C][O])(O[C][O])O[Zr@]34O[C]O[Zr]5O[C]O[Zr]678(O[C]O[Zr](O[C]O3)(O1)(O[Zr](O[C][O])(O[C]O4)(O5)(O6)O7)O8)O2.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(/C=C/c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 408
+Opening GOXZAW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C=O
+Saving linker
+Fragmenting MOF 409
+Opening DAJBOI.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]123O[C]O[Zr]45(O)O[C]O[Zr]67(O)O[C]O[Zr](O)(O[C]O1)(O[C]O[Zr](O)(O)(O[C]O2)(O[C]O4)O[C]O6)O[C]O[Zr](O)(O)(O[C]O3)(O[C]O5)O[C]O7
+Identified linker: CSCC(CO[C]1[CH][C](C([O])=O)C=C[C]1/[C]=[C]/[C]=[C]/c1ccc(C([O])=O)cc1OCC(CSC)(CSC)CSC)(CSC)CSC
+Saving linker
+Fragmenting MOF 410
+Opening ESEBUB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Ti]1([O])O[Zr]2345O[Ti]([O])([O])O[Zr]67(O[Ti]([O])([O])O[Zr]89(O[Ti]([O])([O])O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2ccc(C([O])=O)cc2)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 411
+Opening OFAWID.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:C[C]1O[Zr]O[C]O[Zr]2345O[C]O[Zr]O[C](C)O[Zr]6(O1)(O[Zr]1(O[C][O])(O[C][O])(O[Zr](O[C]=O)(O[C]=O)(O1)(O2)O3)O6)(O4)O5
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 412
+Opening SOQSEY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2.O=[C]O[Zr]1(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr](O[C]=O)(O[C]=O)(O1)O2
+Identified linker: [O]C(=O)c1ccc2c(c1)S(=O)(=O)c1cc(C([O])=O)ccc1-2
+Saving linker
+Fragmenting MOF 413
+Opening ERANIW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr@]12O[C]O[Zr]345O[C]O[Zr@]67O[C]O[Zr]8(O[C]O3)(O1)(O6)O[Zr](O[C]=O)(O[C]O[Zr](O[C]=O)(O[C]=O)(O4)O5)(O2)(O7)O8
+Identified linker: Cc1cc(C([O])=O)ccc1C#CC#Cc1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 414
+Opening BOHWOM.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[OH].[OH].[OH].[OH].[O][C]=O.[O][C]=O.[O][C]O[Zr@@](O[O])(O[C]=O)OO[Zr](O[O])(O[C]=O)O[C]=O.[O][C]O[Zr@](O[O])(O[C]=O)OO[Zr](O[O])(O[C]=O)O[C]=O.[O][C]O[Zr]O[O].[O][C]O[Zr]O[O]
+Identified linker: [O]C(=O)c1ccc(C(c2ccc(C([O])=O)cc2)(c2ccc(C([O])=O)cc2)c2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 415
+Opening ERALIU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][Zr]123([O])O[Zr]4([O])([O])(O1)O[Zr]1([O])([O])(O4)O[Zr]([O])([O])(O2)(O3)O1
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)cc2[N+](=O)[O-])c([N+](=O)[O-])c1
+Saving linker
+Fragmenting MOF 416
+Opening DAQPAP.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr][Zr]123O[C]O[Zr]456O[C]O[Zr]78(O[C]O[Zr]9([Zr])(O[C]O[Zr](O[C]O[Zr](O[C]O1)(O9)(O4)[Zr]O[Zr]5)(O2)(O7)[Zr]O[Zr]8)O6)O3
+Identified linker: [O][C][Co]123([C][O])[N]4=C5C=CC4=C(c4n2c(C(=C2[N]1=C(C=C2)C(=c1n3c(=C5c2ccc(cc2)C(=O)[O])cc1)c1ccc(cc1)C(=O)[O])c1ccc(cc1)C(=O)[O])cc4)c1ccc(cc1)C(=O)[O]
+Saving linker
+Fragmenting MOF 417
+Opening RUBLAD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr]1(O)O[C]O[Zr@]23O[C]O[Zr]O[C]O[Zr@](O[C]O1)(O[C]O[Zr](O)(O)O[C]O2)O[C]O[Zr](O)(O)(O)(O)O[C]O3
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 418
+Opening VIBFAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]P([O])(=O)c1[c][c]c(/C2=C3\[C]=[C]/C(=C(\c4[c][c]c(P([O])([O])=O)[c][c]4)C4=N/C(=C(/c5[c][c]c(P([O])([O])=O)[c][c]5)C5=[C][C]=C([N]5)/C(c5[c][c]c(P([O])([O])=O)[c][c]5)=C5/[C]=[C]C2=N5)[C]=[C]4)[N]3)[c][c]1
+Saving linker
+Fragmenting MOF 419
+Opening HERHUK02.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr@]5(O[C]O[Zr@@]6(O[C]=O)O[Zr@@](O[C]=O)(O[C]O[Zr@]7(O[C]O[Zr](O[C]=O)(O1)(O2)(O5)O7)O3)O6)O4
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3cc(-c4ccc(C([O])=O)cc4)c(O)c(-c4ccc(C([O])=O)cc4)c3)cc(-c3ccc(C([O])=O)cc3)c2O)cc1
+Saving linker
+Fragmenting MOF 420
+Opening FIPDIU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]234O[C]O[Zr]O[C]O[Zr]56(O[C]O2)(O3)O[Zr](O[C]=O)(O[C]=O)(O1)O[Zr](O[C]=O)(O[C]=O)(O4)(O5)O6.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccncc1
+Saving linker
+Fragmenting MOF 421
+Opening CIGLUC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 422
+Opening ERAMOB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]1234O[C]O[Zr]56O[C]O[Zr]789(O[C]O[Zr](O[C][O])(O[C]=O)(O[C]=O)(O[Zr](O[C]O[Zr](O[C]O1)(O7)O8)(O[C]O2)(O5)(O6)O3)O9)O4
+Identified linker: [O]C(=O)/C=C/C([O])=O
+Saving linker
+Fragmenting MOF 423
+Opening NEVSUF05.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]O[Zr]O[C]O[Zr]56(O[C]O[Zr]O[C]O[Zr]7(O[C]=O)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)(O3)O4
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 424
+Opening NEVSUF11.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 425
+Opening FIPFIW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccncc1
+Saving linker
+Fragmenting MOF 426
+Opening QURPEA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][Zr]123O[C]O[Zr]45([O])O[C]O[Zr]67([O])(O[C]O1)O[C]O[Zr]1([O])(O[C]O4)(O[C]O[Zr]4([O])(O[C]O2)(O[C]O5)O[C]O[Zr]([O])(O[C]O3)(O[C]O6)(O[C]O1)O4)O7
+Identified linker: [O]C(=O)C1=CN2C(=C3C=CC(C([O])=O)=CN3[Cu]2Cl)C=C1
+Saving linker
+Fragmenting MOF 427
+Opening NEVSUF10.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 428
+Opening NEVSUF04.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10%11(O1)(O[C]O[Zr](O[C]O4)(O8)(O%10)O[Zr](O[C]O%11)(O[C]O5)(O2)(O3)O6)O9)O7
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 429
+Opening UVUFEX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]123O[C]O[Zr]4O[C]O[Zr]56(O[C]=O)(O1)O[Zr]1(O[C]=O)(O[C]O[Zr](O[C]O2)(O3)(O1)(O5)O6)O4.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3ccc(C([O])=O)cc3)cc2)cc1
+Saving linker
+Fragmenting MOF 430
+Opening NEJMEX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[C][O])O[Zr]234O[C]O[Zr](O[C]O[Zr]567O[C]O[Zr](O[C]O2)(O[Zr](O[C][O])(O[C][O])O5)(O6)O7)(O1)(O3)O4
+Identified linker: Nc1cc(-c2ccc(C([O])=O)cc2)ccc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 431
+Opening YUJWAD01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Li]
+Identified linker: [O]C(=O)C([O])=O
+Saving linker
+Fragmenting MOF 432
+Opening SOQSAU01.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr](O[C]=O)(O[C]=O)O[Zr]2(O[C]=O)(O[C]=O)O[Zr]345(O[C]=O)O[C]O[Zr](O[C]=O)(O1)(O3)O[Zr](O[C]=O)(O[C]=O)(O[C]O4)(O2)O5
+Identified linker: [O]C(=O)c1ccc2c(c1)C(=O)c1cc(C([O])=O)ccc1-2
+Saving linker
+Fragmenting MOF 433
+Opening ISENIF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr](O[C]=O)O[C]=O.[O]O[Zr](O[O])(O[C]O[Zr](O[O])(O[O])(O[O])(O[O])O[C]=O)O[C]=O.[O]O[Zr]1O[C]O[Zr]O[C]O[Zr]O[C]O1.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(-c2ccc(C([O])=O)c(Cl)c2)cc1
+Saving linker
+Fragmenting MOF 434
+Opening ZONBAH.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 435
+Opening KEGKUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[O]O[Zr]O[O].[O]O[Zr]O[O].[O]O[Zr]O[O].[O]O[Zr]O[O].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1cc(S([O])([O])[O])c2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 436
+Opening OQUFUD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1(O[C]=O)O[Zr]234(O[C]=O)O[C]O[Zr@]56O[C]O[Zr]7(O[C]O[Zr@](O[C]O[Zr](O[C]=O)(O7)(O1)(O2)O3)(O5)O6)O4.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc2cc(C([O])=O)ccc2c1
+Saving linker
+Fragmenting MOF 437
+Opening SELKEC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]1234O[C]=[C]O[Zr]56(O[C]O[Zr]7O[C]O[Zr]89(O[C]=[C]O[Zr](O[C]O7)(O8)(O9)(O1)O2)(O5)O6)(O3)O4.[O][C]=O.[O][C]O[Zr](O[C][O])O[C][O]
+Identified linker: O=C1C(=O)C(=O)C1=O
+Saving linker
+Fragmenting MOF 438
+Opening TEPWUJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]12(O[C]=O)O[C]O[Zr]3(O[C]=O)(O[C]=O)(O1)O[Zr]1456O[C]O[Zr]7(O[C]O[Zr](O[C]O1)(O7)(O3)(O4)O5)(O2)O6.O=[C]O[Zr]O[C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C([O])=O)nc1
+Saving linker
+Fragmenting MOF 439
+Opening WUTBAQ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[Zr]
+Identified linker: [O]C(=O)c1cc([O])c([O])c([O])c1
+Saving linker
+Fragmenting MOF 440
+Opening GINTIJ.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]234O[C]O[Zr]567O[C]O[Zr]89%10O[C]O[Zr](O1)(O5)(O6)O[Zr]1(O[C]O2)(O[C]O8)(O3)O[Zr](O[C]O9)(O[C]O4)(O%10)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 441
+Opening NEVDEA.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr@]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10(O1)(O[C]O[Zr]1(O[C]O4)(O2)O[Zr](O[C]O%10)(O[C]O5)(O8)(O1)O6)(O3)O9)O7
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 442
+Opening FIPCAL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]45(O[C]O[Zr](O1)(O2)(O4)O5)O3.[O]C(=O)C1=C[CH]N([Co])C=C1.[O][C]O[Zr]1(O[C][O])O[Zr]2(O[C][O])(O[C][O])O[Zr](O[C][O])(O[C][O])(O1)O2.[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccncc1
+Saving linker
+Fragmenting MOF 443
+Opening GEDGUU.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr@]12O[C]O[Zr@]34O[C]O[Zr]567O[C]O[Zr@](O[C]O1)(O[Zr](O[C]=O)(O[C]=O)(O2)(O3)O5)O[Zr](O[C]=O)(O[C]=O)(O4)(O6)O7.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C#Cc3ccc(C([O])=O)cc3)c(F)c2F)cc1
+Saving linker
+Fragmenting MOF 444
+Opening UFORUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O[Zr].[OH].[OH].[OH].[O][C]O[Zr]123(O[C][O])O[Zr](O)(O)O[Zr]4(O[C][O])(O[C][O])(O[Zr](O)(O)O1)O[Zr](O2)(O3)O4.[O][C][O].[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(-c2ccc(-c3cc(-c4ccc(-c5ccc(C([O])=O)cc5)cc4)cc(-c4ccc(-c5ccc(C([O])=O)cc5)cc4)c3)cc2)cc1
+Saving linker
+Fragmenting MOF 445
+Opening VISZEF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89(O[C]O[Zr]%10%11(O1)(O[C]O[Zr](O[C]O4)(O2)(O5)O[Zr](O[C]O%10)(O[C]O6)(O8)(O%11)O7)O9)O3
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(-c4cc(-c5ccc(C([O])=O)cc5)nc(-c5ccc(C([O])=O)cc5)c4)cc3)cc(-c3ccc(C([O])=O)cc3)n2)cc1
+Saving linker
+Fragmenting MOF 446
+Opening QAJJOD.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O].[O].[O][Zr]123([O])O[C]O[Zr]456O[C]O[Zr]78(O[C]O[Zr]9(O[C]O1)(O[C]O[Zr]1%10(O[C]O4)(O[C]O2)O[C]O[Zr](O[C]O5)(O[C]O9)(O[C]O7)(O1)O%10)O8)(O[C]O3)O6
+Identified linker: Cc1cc(-c2ccc(C([O])=O)c(C)c2)ccc1C([O])=O
+Saving linker
+Fragmenting MOF 447
+Opening UYUGEC.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)(O[C]=O)O[C]=O.O=[C]O[Zr]O[C]=O.O[Zr](O)(O)(O)O.O[Zr](O)(O)O.O[Zr](O)(O)O.O[Zr](O)O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1ccncc1
+Saving linker
+Fragmenting MOF 448
+Opening GIGGEL.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]45(O[C][O])(O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr](O[C][O])(O1)(O2)(O6)O7)(O4)O5)O3
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 449
+Opening NEVSUF12.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]123(O[C]=O)O[Zr]456(O[C]O[Zr]O[C]O[Zr]7(O[C]O[Zr]O[C]O4)(O1)(O2)O[Zr](O[C]=O)(O[C]=O)(O5)(O6)O7)O3
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 450
+Opening NEVSUF06.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr]123(O[C][O])O[Zr]45(O[C][O])(O[C]O[Zr]O[C]O[Zr]67(O[C]O[Zr]O[C]O[Zr](O[C][O])(O1)(O2)(O6)O7)(O4)O5)O3
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 451
+Opening BOHJUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O]O[Zr]1O[C]O[Zr](O[O])O[C]O[Zr](O[O])(O[O])O[C]O1.[O][C]=O.[O][C]=O.[O][C]O[Zr]1(O[O])(O[O])O[C]O[Zr](O[O])O[C]O[Zr](O[O])O[C]O1.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)/C=C/C([O])=O
+Saving linker
+Fragmenting MOF 452
+Opening HERHIY.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Nc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(N)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 453
+Opening JEVCAR.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3ccc4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)c5ccc2c3c54)cc1
+Saving linker
+Fragmenting MOF 454
+Opening VEGBUG.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.O[Zr]123O[Zr]4(O)(O)(O1)O[Zr]1(O)(O)(O4)O[Zr](O)(O)(O2)(O3)O1.[OH].[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: [O]C(=O)c1cc2sc3cc(C([O])=O)sc3c2s1
+Saving linker
+Fragmenting MOF 455
+Opening NEVSUF07.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: Cc1c(-c2ccc(C([O])=O)cc2)c(C)c(-c2c(C)c(-c3ccc(C([O])=O)cc3)c(C)c(-c3ccc(C([O])=O)cc3)c2C)c(C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 456
+Opening GERBEN.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)cc(-c3cc(-c4ccc(C([O])=O)cc4)cc(-c4ccc(C([O])=O)cc4)c3)c2)cc1
+Saving linker
+Fragmenting MOF 457
+Opening XULGIW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]45(O[C]O[Zr](O1)(O2)(O4)O5)O3.[O][C]O[Zr]1(O[C][O])O[Zr]2(O[C][O])(O[C][O])O[Zr](O[C][O])(O[C][O])(O1)O2.[O][C][O].[O][C][O].[O][C][O]
+Identified linker: [O]C(=O)c1ccc(C#Cc2ccc(C([O])=O)cc2)cc1
+Saving linker
+Fragmenting MOF 458
+Opening DEFSUF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]=O.O=[C]O[Zr]O[C]=O.[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(C([O])=O)ccc1-c1ccc(C([O])=O)cc1C
+Saving linker
+Fragmenting MOF 459
+Opening NIHGIX.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr]O[C]O[Zr]1234O[C]O[Zr]5(O[C]O[Zr]O[C]=O)(O1)(O2)O[Zr]1(O[C]=O)(O[C]=O)(O5)O[Zr](O[C]=O)(O[C]=O)(O3)(O4)O1
+Identified linker: [O]C(=O)c1ccc(-c2cc(-c3ccc(C([O])=O)cc3)c3[nH]c4c(-c5ccc(C([O])=O)cc5)cc(-c5ccc(C([O])=O)cc5)cc4c3c2)cc1
+Saving linker
+Fragmenting MOF 460
+Opening QUHVEW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[O][C]O[Zr](O)(O)(O)O[C]O[Zr@@]1(O)O[C]O[Zr]O[C]O[Zr]2(O[C]O1)O[C]O[Zr](O)(O)(O[C][O])O[C]O[Zr](O)(O)(O[C][O])O[C]O2.[O][C][O].[O][C][O]
+Identified linker: C#Cc1c(C#C)c(-c2ccc(C([O])=O)cc2)c(C#C)c(C#C)c1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 461
+Opening JIXKAF.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]89O[C]O[Zr]%10(O1)(O4)(O5)O[Zr]1(O[C]O2)(O[C]O8)(O%10)O[Zr](O[C]O3)(O[C]O9)(O6)(O7)O1.[O][C]=O.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: C[C]1C(C([O])=O)=C(C)N2[C]3N4C(C)=C(C([O])=O)[C](C)N4[Cu](I)(N12)N1[C](C)C(C([O])=O)=C(C)N31
+Saving linker
+Fragmenting MOF 462
+Opening YEYCOW.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:O=[C]O[Zr](O[C]=O)O[Zr]123O[C]O[Zr]456(O[C]O[Zr](O[C]O1)(O2)(O[Zr](O[C]=O)(O[C]=O)(O[Zr](O[C]=O)O[C]=O)O4)(O5)O6)O3.[O][C]=O.[O][C]=O.[O][C]=O
+Identified linker: Cc1cc(-c2ccc(C([O])=O)cc2)c(C)cc1-c1ccc(C([O])=O)cc1
+Saving linker
+Fragmenting MOF 463
+Opening EGAJEE.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]2345O[C]O[Zr]67(O[C]O[Zr]89(O[C]O[Zr](O1)(O2)(O3)(O8)O9)(O6)O7)(O4)O5.[O][C]O[Zr](O[C][O])(O[C][O])O[C][O].[O][C]O[Zr](O[C][O])(O[C][O])O[C][O]
+Identified linker: [O]C(=O)c1ccc([C]2NC(c3ccc(C([O])=O)cc3)=C(c3ccc(C([O])=O)cc3)N2)cc1
+Saving linker
+Fragmenting MOF 464
+Opening LOBQEB.cif
+Loading structure
+Loaded structure
+Starting fragmentation
+Finished fragmentation
+Identified node:[C]1O[Zr]23O[C]O[Zr]4567O[C]O[Zr]8(O[C]O2)(O4)(O5)O[Zr]24(O[C]O3)(O[C]O[Zr](O1)(O2)(O4)(O6)O7)O8.[O][C]O[Zr](O[C][O])(O[C][O])O[C][O]
+Identified linker: Nc1c(-c2ccc(C([O])=O)cc2)cc(-c2cc(-c3ccc(C([O])=O)cc3)c(N)c(-c3ccc(C([O])=O)cc3)c2)cc1-c1ccc(C([O])=O)cc1
+Saving linker
