@@ -1,0 +1,99 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_FIQGES
+_chemical_formula_moiety         '(C5 H14 N2 2+)n,n(C6 O12 Zr1 2-)'
+_chemical_name_systematic        
+"catena-(N-Methylpiperazinium) (\m~2~-oxalato-O,O',O'',O''')-(bis(oxalato-O,O')-zirconium(iv))"
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,1/2+y,1/2-z
+-x,-y,-z
+x,1/2-y,1/2+z
+_cell_length_a                   9.5936
+_cell_length_b                   11.3569
+_cell_length_c                   13.9792
+_cell_angle_alpha                90
+_cell_angle_beta                 108.0230
+_cell_angle_gamma                90
+_cell_volume                     1448.35
+_exptl_crystal_colour            colorless
+_exptl_crystal_description       prism
+_cell_formula_units_Z            4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zr1 Zr 0.405310 0.614720 0.239390
+O1 O 0.60770 0.49360 0.26360
+O2 O 0.67640 0.30250 0.27520
+O3 O 0.33470 0.42770 0.23140
+O4 O 0.40560 0.23900 0.24810
+O5 O 0.24960 0.61160 0.32320
+O6 O 0.21420 0.60730 0.47410
+O7 O 0.52410 0.62830 0.39550
+O8 O 0.52420 0.63610 0.55470
+O9 O 0.18690 0.61490 0.12800
+O10 O 0.06190 0.62090 -0.03580
+O11 O 0.43490 0.60680 0.09510
+O12 O 0.3312 0.62380 -0.07150
+C1 C 0.58610 0.38600 0.26380
+C2 C 0.42900 0.34700 0.24710
+C3 C 0.2933 0.61420 0.42140
+C4 C 0.4613 0.62750 0.46480
+C5 C 0.1762 0.61750 0.03430
+C6 C 0.3253 0.61630 0.01350
+Zr1A Zr 0.594690 0.114720 0.260610
+O2A O 0.32360 0.80250 0.22480
+O4A O 0.59440 0.73900 0.25190
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+Zr1 O1 1_555 1_555
+O1 C1 1_555 1_555
+O2 C1 1_555 1_555
+O3 Zr1 1_555 1_555
+O4 C2 1_555 1_555
+O5 Zr1 1_555 1_555
+O6 C3 1_555 1_555
+O7 Zr1 1_555 1_555
+O8 C4 1_555 1_555
+O9 Zr1 1_555 1_555
+O10 C5 1_555 1_555
+O11 Zr1 1_555 1_555
+O12 C6 1_555 1_555
+C1 C2 1_555 1_555
+C2 O3 1_555 1_555
+C3 O5 1_555 1_555
+C4 O7 1_555 1_555
+C5 O9 1_555 1_555
+C6 O11 1_555 1_555
+Zr1A O2 1_555 1_555
+O2A Zr1 1_555 1_555
+O4A Zr1 1_555 1_555
+O4 Zr1A 1_555 1_555
+C3 C4 1_555 1_555
+C5 C6 1_555 1_555
+
+#END
