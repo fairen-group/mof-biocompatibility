@@ -31,7 +31,7 @@ Here we provide an overview of the part of the code we developed to leverage mof
 
 In addition to this, we provide a list of CIF files of Zr-centered MOFs (as a test case) which have been parsed, and the list of these MOFs that have been identified to be safe. 
 
-## 💪 Getting Started
+## Getting Started
 The code provided is readily implementable - the only change required is putting in the correct path to the directory where the data is stored. If you want to train the models yourself, follow these steps:
 1. Featurize the data: For this, use generate_features.py.
 2. Sample the data: For this, use data_sampling.py
@@ -43,3 +43,13 @@ The code provided is readily implementable - the only change required is putting
 8. High-throughput screening: For this, use prediction_HTS.py.
 
 Alternatively, if you have a single CIF file - you can use the Jupter Notebook: bioMOFx.ipynb.
+
+## Contributing
+Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
+
+## License
+This code package is licensed under the MIT License. 
+
+## Development and Funding
+This work was carried out at the Adsorption and Advanced Materials (A2ML) Laboratory. Supported by the Engineering and Physical Sciences Research Council (EPSRC) and the Trinity Henry-Barlow (Honorary) Scholarship. 
+
