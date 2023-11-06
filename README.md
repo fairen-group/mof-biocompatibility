@@ -16,5 +16,6 @@ Here, we provide an overview of the code.
   You need to have the imbalanced-learn package installed, which you can install with 'pip install imblearn'.
 * feature_selection.py: Selecting the KBest features (outlined in the manuscript) as implemented using scikit-learn, which can be installed using 'pip install scikit-learn'.
 * gbt_coarsegrid.py: The Gradient Boosting Machine (GBM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+* generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data. 
 
 ## 💪 Getting Started
