@@ -40,4 +40,6 @@ The code provided is readily implementable - the only change required is putting
 5. Model training (fine-grid): Train the model on a finer grid (based on the outcome of the coarse-grid optimization). In case you are using a GBM, make appropriate changes to rfc_finegrid.py, else leave it as is. This should give you the hyperparameters with the best performance.
 6. Final Model training and saving: For this, use rfc.py - with the hyperparameters as outputted in the fine-grid optimization. This code will save a model which can be used for future predictions.
 7. MOF fragmentation: First, place all the CIF files in a directory and run mof_parser.py. This will save parsed CIF files into a new directory. Then run fragmentor.py. This will save a CSV file with the list of nodes and linkers.
-8. High-throughput screening: For this, use prediction_HTS.py. 
+8. High-throughput screening: For this, use prediction_HTS.py.
+
+Alternatively, if you have a single CIF file - you can use the Jupter Notebook: bioMOFx.ipynb.
