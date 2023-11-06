@@ -52,4 +52,7 @@ This code package is licensed under the MIT License.
 
 ## Development and Funding
 This work was carried out at the Adsorption and Advanced Materials (A2ML) Laboratory. Supported by the Engineering and Physical Sciences Research Council (EPSRC) and the Trinity Henry-Barlow (Honorary) Scholarship. 
+<p align="center">
+  <img src="utils/a2ml_logo.png" style="padding:10px;" width="700"/>
+</p>  
 
