@@ -19,5 +19,7 @@ Here, we provide an overview of the code.
 * generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.
 * prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
 * rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
-
+* rfc_coarsegrid.py: The RF trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+* rfc_finegrid.py: The RF trained on a fine grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+* svc_coarsegrid.py: The Support Vector Machine (SVM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn. 
 ## 💪 Getting Started
