@@ -42,7 +42,7 @@ The code provided is readily implementable - the only change required is putting
 7. MOF fragmentation: First, place all the CIF files in a directory and run mof_parser.py. This will save parsed CIF files into a new directory. Then run fragmentor.py. This will save a CSV file with the list of nodes and linkers.
 8. High-throughput screening: For this, use prediction_HTS.py.
 
-Alternatively, if you have a single CIF file - you can use the Jupter Notebook: bioMOFx.ipynb.
+Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. 
 
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
