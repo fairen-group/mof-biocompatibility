@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="utils/logo.png" style="padding:10px;" width="700"/>
-</p>  
+# bioMOFx: A High-Throughput Approach to Screen Large MOF Libraries for Biocompatibility.  
 
-# mof-biocompatibility
+This is the official implementation for our upcoming paper:
 ### Guiding the rational design of biocompatible metal-organic frameworks for drug delivery using machine learning.
+[Dhruv Menon]([https://scholar.google.com/citations?user=4LWx24UAAAAJ](https://scholar.google.com/citations?user=NMOjZLQAAAAJ&hl=en&oi=ao))\*,
+[David Fairen-Jimenez]([https://scholar.google.com/citations?user=aMpbemkAAAAJ](https://scholar.google.com/citations?user=F3UKbZsAAAAJ&hl=en&oi=ao))\*
 The python code in this repository is capable of executing the pipeline as illustrated below.  
 <p align="center">
   <img src="utils/Schematic 1.png" style="padding:10px;" width="700"/>
