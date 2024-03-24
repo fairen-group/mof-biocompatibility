@@ -110,7 +110,7 @@ conda activate biomofx
   ```python
   model_path = 'finalized_model.sav'
   ```
-
+In order to fragment MOF structures into their building MOFs, we recommend using *moffragmentor*, developed by Jablonka et al. 
 The code for the fragmentation of a MOF into its building blocks (moffragmentor) has been developed by Jablonka et al. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry.
 
 Here we provide an overview of the part of the code we developed to leverage moffragmentor in a high-throughput manner.
