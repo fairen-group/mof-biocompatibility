@@ -28,8 +28,8 @@ conda activate biomofx
   ```
   For a list of SMILES, generate features by adding the following lines of code to the script:
   ```python
-  smiles_list = [] # add here the SMILES string
-  features = feature_gen(smiles_list)
+  smiles_list = [] # add here the SMILES string from the data
+  features = feature_generate(smiles_list) # returns the feature dataframe that can be used for model training
   ```
 * data_sampling.py: Sampling of the data to ensure balanced classes. Majority class is undersampled (random sampling) and the minority class is oversampled (ADASYN algorithm).
   You need to have the imbalanced-learn package installed, which you can install with 'pip install imblearn'.
