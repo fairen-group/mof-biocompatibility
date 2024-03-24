@@ -126,12 +126,12 @@ pip install poremake
 ```
 If you are using this code, please cite: Lee, S., Kim, B., Cho, H., Lee, H., Lee, S.Y., Cho, E.S. and Kim, J., 2021. Computational screening of trillions of metal–organic frameworks for high-performance methane storage. ACS Applied Materials & Interfaces, 13(20), pp.23647-23654. [https://doi.org/10.1021/acsami.1c02471]
 
-Here we provide an overview of the part of the code we developed to leverage moffragmentor in a high-throughput manner.
-* mof_parser.py: The crystallographic information file (CIF) of the MOFs as extracted from the CSD need to be re-prased due to some occupancy issues. This code is capable of doing so in a high-throughput manner.
-* fragmentor.py: Carries out MOF fragmentation in a high-throughput manner. Ideally saves the CSV file with the name of the MOF (CSD refcode), metallic node and linker. However, in case of an issue, it also prints a text file with all the details.
+In case you want to clean structures, you can remove bound and unbound solvents using scripts developed previously by us. These scripts are deposited in the utils directory. If you are using this code, please cite: Moghadam, P.Z., Li, A., Wiggin, S.B., Tao, A., Maloney, A.G., Wood, P.A., Ward, S.C. and Fairen-Jimenez, D., 2017. Development of a Cambridge Structural Database subset: a collection of metal–organic frameworks for past, present, and future. Chemistry of Materials, 29(7), pp.2618-2625. [https://doi.org/10.1021/acs.chemmater.7b00441]
 
-In addition to this, we provide a list of CIF files of Zr-centered MOFs (as a test case) which have been parsed, and the list of these MOFs that have been identified to be safe. 
-
+In case you want to re-parse some CIF files to correct occupancy issues, you may use the script mofparser.py. Simply, provide the directory with the structures at:
+```python
+directory = 'directory_path/' # add the path to your directory
+```
 ## Getting Started
 The code provided is readily implementable - the only change required is putting in the correct path to the directory where the data is stored. If you want to train the models yourself, follow these steps:
 1. Featurize the data: For this, use generate_features.py.
