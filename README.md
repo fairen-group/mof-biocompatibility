@@ -12,11 +12,11 @@ The python code in this repository is capable of executing the pipeline as illus
   <img src="utils/Schematic 1.png" style="padding:10px;" width="700"/>
 </p>  
 
-Here, we provide a walk-through of the code.  
+Here, we provide a walk-through of the code. It would be best to execute these in a dedicated environment.   
 * data_featurize.py: Featurization of the data to produce 197 descriptors capturing the information of the molecule at various lengthscales.
   You need to have 'rdkit' installed which you can install with:
   ```
-  pip install rdkit'
+  pip install rdkit
   ```
   or
   ```
