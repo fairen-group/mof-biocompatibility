@@ -37,6 +37,13 @@ conda activate biomofx
   pip install imblearn
   ```
   Here operating inside an environment helps, in order to avoid the 'dependency hell'. However, just in case, you may check the dependencies here: [https://imbalanced-learn.org/stable/install.html]
+  For undersampling, we recommend using random undersampling. Here, be sure to define the sampling strategy as follows:
+  ```python
+  strategy = {-1: 0, 0: 5000, 1: 0}
+  '''
+  0 being the majority class is being undersampled to 5000 points, while -1 and 1 being the minority classes are not undersampled.
+  '''
+  ```
 * feature_selection.py: Selecting the KBest features (outlined in the manuscript) as implemented using scikit-learn, which can be installed using 'pip install scikit-learn'.
 * gbt_coarsegrid.py: The Gradient Boosting Machine (GBM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
 * generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.
