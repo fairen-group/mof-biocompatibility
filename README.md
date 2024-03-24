@@ -72,7 +72,11 @@ conda activate biomofx
                 'min_samples_leaf' : [20, 30, 40, 50, 60, 70, 80, 90, 100],
                 'l2_regularization' : [0, 0.5, 0.75, 1, 10]}
   ```
-  Depending on the feature-set, with the parameter space outlined above, this could take anywhere between a couple of hours, to over 12 hours to execute. 
+  Depending on the feature-set, with the parameter space outlined above, this could take anywhere between a couple of hours, to over 12 hours to execute. To run the code, simply execute:
+  ```python
+  path = 'data.csv' # path to the data
+  scores = run_model(path) # returns the model performance
+  ```
 * prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
 * rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
 * rfc_coarsegrid.py: The RF trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
