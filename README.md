@@ -31,6 +31,7 @@ conda activate biomofx
   smiles_list = [] # add here the SMILES string from the data
   features = feature_generate(smiles_list) # returns the feature dataframe that can be used for model training
   ```
+* generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.  
 * data_sampling.py: Sampling of the data to ensure balanced classes. Majority class is undersampled (random sampling) and the minority class is oversampled (ADASYN algorithm).
   You need to have the imbalanced-learn package installed, which you can install with:
   ```
@@ -62,9 +63,16 @@ conda activate biomofx
   ```python
   _ = run(path, K)
   ```
-  
 * gbt_coarsegrid.py: The Gradient Boosting Machine (GBM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-* generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.
+  Now, depending on the computational resources at your disposal, you may consider making the parameter space larger or smaller.
+  ```python
+  param_grid = {'learning_rate : [0.1, 0.01, 0.001],
+                'max_iter' : [100, 200, 300, 400, 500],
+                'max_leaf_nodes' : [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+                'min_samples_leaf' : [20, 30, 40, 50, 60, 70, 80, 90, 100],
+                'l2_regularization' : [0, 0.5, 0.75, 1, 10]}
+  ```
+  Depending on the feature-set, with the parameter space outlined above, this could take anywhere between a couple of hours, to over 12 hours to execute. 
 * prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
 * rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
 * rfc_coarsegrid.py: The RF trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
