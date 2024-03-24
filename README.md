@@ -58,6 +58,10 @@ conda activate biomofx
   path = 'data.csv' # add your path here
   K = 110 # number of features to be selected (best performance reported for 110 features using the i.p. data - please refer to manuscript)
   ```
+  Run as follows (will save the data as a csv file):
+  ```python
+  _ = run(path, K)
+  ```
   
 * gbt_coarsegrid.py: The Gradient Boosting Machine (GBM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
 * generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.
