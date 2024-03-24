@@ -34,7 +34,7 @@ conda activate biomofx
 * data_sampling.py: Sampling of the data to ensure balanced classes. Majority class is undersampled (random sampling) and the minority class is oversampled (ADASYN algorithm).
   You need to have the imbalanced-learn package installed, which you can install with:
   ```
-  pip install imblearn
+  pip install imbalanced-learn
   ```
   Here operating inside an environment helps, in order to avoid the 'dependency hell'. However, just in case, you may check the dependencies here: [https://imbalanced-learn.org/stable/install.html]
   For undersampling, we recommend using random undersampling. Here, be sure to define the sampling strategy as follows:
@@ -49,7 +49,16 @@ conda activate biomofx
   X_sampled, y_sampled = undersample_random(X, y) # for undersampling
   X_sampled, y_sampled = oversample_ADASYN(X, y) # for oversampling
   ```
-* feature_selection.py: Selecting the KBest features (outlined in the manuscript) as implemented using scikit-learn, which can be installed using 'pip install scikit-learn'.
+* feature_selection.py: Selecting the KBest features (outlined in the manuscript) as implemented using scikit-learn, which can be installed using:
+  ```
+  pip install scikit-learn
+  ```
+  If you are directly running this script, please provide the path to the featurized data and the number of features to be selected as:
+  ```python
+  path = 'data.csv' # add your path here
+  K = 110 # number of features to be selected (best performance reported for 110 features using the i.p. data - please refer to manuscript)
+  ```
+  
 * gbt_coarsegrid.py: The Gradient Boosting Machine (GBM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
 * generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.
 * prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
