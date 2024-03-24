@@ -12,6 +12,7 @@ The python code in this repository is capable of executing the pipeline as illus
   <img src="utils/Schematic 1.png" style="padding:10px;" width="700"/>
 </p>  
 
+## Code Walkthrough
 Here, we provide a walk-through of the code. It would be best to execute these in a dedicated environment.   
 ```
 conda create -y -n biomofx python=3.10
