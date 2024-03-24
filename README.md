@@ -77,11 +77,24 @@ conda activate biomofx
   path = 'data.csv' # path to the data
   scores = run_model(path) # returns the model performance
   ```
+* rfc_coarsegrid.py: The RF trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+  The parameter space we have defined is as follows:
+  ```python
+  param_grid = {'n_estimators' : [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],
+                'max_depth' : [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+                'min_samples_split' : [2, 5, 10]}
+  ```
+  You can expect similar timescales - based on the size of the dataset you are training the models on.
+* svc_coarsegrid.py: The Support Vector Machine (SVM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+  The parameter space we have defined is as follows:
+  ```python
+  param_grid = {'C' : [0.1, 1, 5, 10],
+                'kernel' : ['linear', 'poly', 'rbf', 'sigmoid'],
+                'decision_function_shape' : ['ovo', 'ovr']}
+  ```
 * prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
 * rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
-* rfc_coarsegrid.py: The RF trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
 * rfc_finegrid.py: The RF trained on a fine grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-* svc_coarsegrid.py: The Support Vector Machine (SVM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
 
 The code for the fragmentation of a MOF into its building blocks (moffragmentor) has been developed by Jablonka et al. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry.
 
