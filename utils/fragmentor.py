@@ -1,4 +1,5 @@
 '''
+In case you chose to use moffragmentor for deconstructing the MOF structure - 
 This script utilises moffragmentor developed by Jablonka et al. (2023) to fragment MOFs in a high-throughput manner.
 Here, you need to save cleaned CIF files (those passed through the parser code) into a directory, and add the path of 
 the directory to the relevant part of the code.
@@ -51,7 +52,7 @@ while index < len(files):
         print('Loaded structure')
         try:
             '''
-            If the CIF file is not correct, this willl throw an error.
+            If the CIF file is not correct, this will throw an error.
             '''
             mof = MOF.from_cif(path) # converting cif file to MOF structure 
         except:
