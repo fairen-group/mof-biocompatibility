@@ -133,17 +133,9 @@ In case you want to re-parse some CIF files to correct occupancy issues, you may
 directory = 'directory_path/' # add the path to your directory
 ```
 ## Getting Started
-The code provided is readily implementable - the only change required is putting in the correct path to the directory where the data is stored. If you want to train the models yourself, follow these steps:
-1. Featurize the data: For this, use generate_features.py.
-2. Sample the data: For this, use data_sampling.py
-3. Select the 'K'-best features: For this, use feature_selection.py
-4. Model training (coarse-grid): Train the model on the features selected on a coarse-grid of hyperparameters. While you can use rf_coarsegrid.py, gbt_coarsegrid.py or svc_coarsegrid.py, we recommend you use either the rf_coarsegrid.py or gbt_coarsegrid.py.
-5. Model training (fine-grid): Train the model on a finer grid (based on the outcome of the coarse-grid optimization). In case you are using a GBM, make appropriate changes to rfc_finegrid.py, else leave it as is. This should give you the hyperparameters with the best performance.
-6. Final Model training and saving: For this, use rfc.py - with the hyperparameters as outputted in the fine-grid optimization. This code will save a model which can be used for future predictions.
-7. MOF fragmentation: First, place all the CIF files in a directory and run mof_parser.py. This will save parsed CIF files into a new directory. Then run fragmentor.py. This will save a CSV file with the list of nodes and linkers.
-8. High-throughput screening: For this, use prediction_HTS.py.
+The code provided is readily implementable - the only change required in most cases is putting in the correct path to the directory where the data is stored. Note: problems may arise due to conflicts between dependencies. 
 
-Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. 
+Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. Note: This is for the i.p. route of administration 
 
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
