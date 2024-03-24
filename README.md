@@ -138,8 +138,11 @@ The code provided is readily implementable - the only change required in most ca
 Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. **Note:** *This is for the i.p. route of administration.*
 
 ## Data
+In the directory *training_data*, we provide CSV files of clean, raw data for toxicity profiles through the oral and i.p. routes of administration respectively. While the original dataset has reported values of LD50, we have categorized these values (please, see our discussion in the manuscript). If you are using this data, please cite the original source as follows: Wu, L., Yan, B., Han, J., Li, R., Xiao, J., He, S. and Bo, X., 2023. TOXRIC: a comprehensive database of toxicological data and benchmarks. Nucleic Acids Research, 51(D1), pp.D1432-D1445. [https://doi.org/10.1093/nar/gkac1074]
 
+In the directory *metal_data*, we provide our curated data for the reported toxicity profiles of metal centres.
 
+In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOFs which were reported to be safe.
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
 
