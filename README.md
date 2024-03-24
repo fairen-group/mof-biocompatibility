@@ -120,6 +120,12 @@ conda install openbabel -c conda-forge
 ```
 From personal experience, openbabel is a bit tricky to set up, so please be careful. While we provide some useful helper scripts for using the library (check utils) - we would refer you to the source repository for a more comprehensive discussion. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry. [https://doi.org/10.1021/acscentsci.2c01177]
 
+Alternatively, you may use *Poremake* for MOF deconstruction, developed by Lee et al., accessible here: [https://github.com/Sangwon91/PORMAKE]. The library can be installed using:
+```
+pip install poremake
+```
+If you are using this code, please cite: Lee, S., Kim, B., Cho, H., Lee, H., Lee, S.Y., Cho, E.S. and Kim, J., 2021. Computational screening of trillions of metal–organic frameworks for high-performance methane storage. ACS Applied Materials & Interfaces, 13(20), pp.23647-23654. [https://doi.org/10.1021/acsami.1c02471]
+
 Here we provide an overview of the part of the code we developed to leverage moffragmentor in a high-throughput manner.
 * mof_parser.py: The crystallographic information file (CIF) of the MOFs as extracted from the CSD need to be re-prased due to some occupancy issues. This code is capable of doing so in a high-throughput manner.
 * fragmentor.py: Carries out MOF fragmentation in a high-throughput manner. Ideally saves the CSV file with the name of the MOF (CSD refcode), metallic node and linker. However, in case of an issue, it also prints a text file with all the details.
