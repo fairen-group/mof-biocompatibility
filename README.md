@@ -77,7 +77,7 @@ conda activate biomofx
   path = 'data.csv' # path to the data
   scores = run_model(path) # returns the model performance
   ```
-* rfc_coarsegrid.py: The RF trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+* rfc_coarsegrid.py: The Random Forest (RF) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
   The parameter space we have defined is as follows:
   ```python
   param_grid = {'n_estimators' : [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],
@@ -93,7 +93,7 @@ conda activate biomofx
                 'decision_function_shape' : ['ovo', 'ovr']}
   ```
 * rfc_finegrid.py: The RF trained on a fine grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-* rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
+* rfc.py: Training the best performing model - the RF using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
   To run the model:
   ```python
   path = 'data.csv' # path to where the data is stored
