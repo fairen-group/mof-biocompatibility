@@ -101,7 +101,15 @@ conda activate biomofx
   ```
   This will save the trained model for future use as finalized_model.sav (~200 Mb)
 * prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
-
+  You would need to have a saved model to execute this code. To run, you need a csv file with the list of linkers to be tested.
+  Add the path to where the list is saved as:
+  ```python
+  data_path = 'data.csv'
+  ```
+  Add the path to where the model is saved as:
+  ```python
+  model_path = 'finalized_model.sav'
+  ```
 
 The code for the fragmentation of a MOF into its building blocks (moffragmentor) has been developed by Jablonka et al. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry.
 
