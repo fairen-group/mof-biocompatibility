@@ -92,9 +92,16 @@ conda activate biomofx
                 'kernel' : ['linear', 'poly', 'rbf', 'sigmoid'],
                 'decision_function_shape' : ['ovo', 'ovr']}
   ```
-* prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
-* rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
 * rfc_finegrid.py: The RF trained on a fine grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
+* rfc.py: Training the best performing model - the random forest (RF) using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
+  To run the model:
+  ```python
+  path = 'data.csv' # path to where the data is stored
+  _, _, model, _, _, _, _, _, _, _, _ = run_model(path) 
+  ```
+  This will save the trained model for future use as finalized_model.sav (~200 Mb)
+* prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
+
 
 The code for the fragmentation of a MOF into its building blocks (moffragmentor) has been developed by Jablonka et al. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry.
 
