@@ -110,8 +110,15 @@ conda activate biomofx
   ```python
   model_path = 'finalized_model.sav'
   ```
-In order to fragment MOF structures into their building MOFs, we recommend using *moffragmentor*, developed by Jablonka et al. 
-The code for the fragmentation of a MOF into its building blocks (moffragmentor) has been developed by Jablonka et al. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry.
+In order to fragment MOF structures into their building MOFs, we recommend using *moffragmentor*, developed by Jablonka et al., accessible here: [https://github.com/kjappelbaum/moffragmentor/tree/main]. The library can be installed using:
+```
+pip install moffragmentor
+```
+Please note: *moffragmentor* is dependent on openbabel, which may be installed on your anaconda environment using:
+```
+conda install openbabel -c conda-forge
+```
+From personal experience, openbabel is a bit tricky to set up, so please be careful. While we provide some useful helper scripts for using the library (check utils) - we would refer you to the source repository for a more comprehensive discussion. If you are using this code, please cite: Jablonka, K.M., Rosen, A.S., Krishnapriyan, A.S. and Smit, B., 2023. An ecosystem for digital reticular chemistry. [https://doi.org/10.1021/acscentsci.2c01177]
 
 Here we provide an overview of the part of the code we developed to leverage moffragmentor in a high-throughput manner.
 * mof_parser.py: The crystallographic information file (CIF) of the MOFs as extracted from the CSD need to be re-prased due to some occupancy issues. This code is capable of doing so in a high-throughput manner.
