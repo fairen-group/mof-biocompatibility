@@ -145,7 +145,9 @@ In the directory *metal_data*, we provide our curated data for the reported toxi
 In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOFs which were reported to be safe.
 
 ## Citing
-If you use the tools developed in this study - please consider citing our work. [This will be updated as soon as the paper is published (underway)]
+If you use the tools developed in this study - please consider citing our work. **This will be updated as soon as the paper is published (underway)**
+
+Menon, D. and Fairen-Jimenez, D., 2024. Guiding the rational design of biocompatible MOFs for drug delivery using machine learning. *Under revision*
 
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
