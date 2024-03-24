@@ -26,6 +26,11 @@ conda activate biomofx
   ```
   conda install -c conda-forge rdkit
   ```
+  For a list of SMILES, generate features by adding the following lines of code to the script:
+  ```python
+  smiles_list = [] # add here the SMILES string
+  features = feature_gen(smiles_list)
+  ```
 * data_sampling.py: Sampling of the data to ensure balanced classes. Majority class is undersampled (random sampling) and the minority class is oversampled (ADASYN algorithm).
   You need to have the imbalanced-learn package installed, which you can install with 'pip install imblearn'.
 * feature_selection.py: Selecting the KBest features (outlined in the manuscript) as implemented using scikit-learn, which can be installed using 'pip install scikit-learn'.
