@@ -133,9 +133,12 @@ In case you want to re-parse some CIF files to correct occupancy issues, you may
 directory = 'directory_path/' # add the path to your directory
 ```
 ## Getting Started
-The code provided is readily implementable - the only change required in most cases is putting in the correct path to the directory where the data is stored. Note: problems may arise due to conflicts between dependencies. 
+The code provided is readily implementable - the only change required in most cases is putting in the correct path to the directory where the data is stored. **Note:** *problems may arise due to conflicts between dependencies.* 
 
-Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. Note: This is for the i.p. route of administration 
+Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. **Note:** *This is for the i.p. route of administration.*
+
+## Data
+
 
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
