@@ -143,6 +143,10 @@ In the directory *training_data*, we provide CSV files of clean, raw data for to
 In the directory *metal_data*, we provide our curated data for the reported toxicity profiles of metal centres.
 
 In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOFs which were reported to be safe.
+
+## Citing
+If you use the tools developed in this study - please consider citing our work. [This will be updated as soon as the paper is published (underway)]
+
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
 
