@@ -7,7 +7,7 @@ For correspondence please contact: dm958[at]cam[dot]ac[dot]uk or df334[at]cam[do
 
 The python code in this repository is capable of executing the pipeline as illustrated below.  
 <p align="center">
-  <img src="utils/Schematic 1.png" style="padding:10px;" width="700"/>
+  <img src="img/Schematic 1.png" style="padding:10px;" width="700"/>
 </p>  
 
 ## Code Walkthrough
