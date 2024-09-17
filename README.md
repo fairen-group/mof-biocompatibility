@@ -11,10 +11,12 @@ The python code in this repository is capable of executing the pipeline as illus
 </p>  
 
 ## Code Walkthrough
-Here, we provide a walk-through of the code. It would be best to execute these in a dedicated environment.   
+Here, we provide a walk-through of the code. It would be best to execute these in a dedicated environment. To avoid dependency hell, I suggest installing chemprop which has all the required packages needed here, with the exception of Shap.    
 ```
-conda create -y -n biomofx python=3.10
-conda activate biomofx
+conda create -y -n biomof
+conda activate biomof
+pip install chemprop
+pip install shap
 ```
 * data_featurize.py: Featurization of the data to produce 197 descriptors capturing the information of the molecule at various lengthscales.
   You need to have 'rdkit' installed which you can install with:
