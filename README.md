@@ -19,99 +19,14 @@ pip install chemprop
 pip install shap
 pip install imbalanced-learn
 ```
-* data_featurize.py: Featurization of the data to produce 197 descriptors capturing the information of the molecule at various lengthscales.
-  You need to have 'rdkit' installed which you can install with:
-  ```
-  pip install rdkit
-  ```
-  or
-  ```
-  conda install -c conda-forge rdkit
-  ```
-  For a list of SMILES, generate features by adding the following lines of code to the script:
-  ```python
-  smiles_list = [] # add here the SMILES string from the data
-  features = feature_generate(smiles_list) # returns the feature dataframe that can be used for model training
-  ```
-* generate_features.py: This code is used to pass a dataset of molecules through data_featurize to generate a CSV file of featurized data.  
-* data_sampling.py: Sampling of the data to ensure balanced classes. Majority class is undersampled (random sampling) and the minority class is oversampled (ADASYN algorithm).
-  You need to have the imbalanced-learn package installed, which you can install with:
-  ```
-  pip install imbalanced-learn
-  ```
-  Here operating inside an environment helps, in order to avoid the 'dependency hell'. However, just in case, you may check the dependencies here: [https://imbalanced-learn.org/stable/install.html]
-  For undersampling, we recommend using random undersampling. Here, be sure to define the sampling strategy as follows:
-  ```python
-  strategy = {-1: 0, 0: 5000, 1: 0}
-  '''
-  0 being the majority class is being undersampled to 5000 points, while -1 and 1 being the minority classes are not undersampled.
-  '''
-  ```
-  For undersampling/oversampling, simply call the respective functions:
-  ```python
-  X_sampled, y_sampled = undersample_random(X, y) # for undersampling
-  X_sampled, y_sampled = oversample_ADASYN(X, y) # for oversampling
-  ```
-* feature_selection.py: Selecting the KBest features (outlined in the manuscript) as implemented using scikit-learn, which can be installed using:
-  ```
-  pip install scikit-learn
-  ```
-  If you are directly running this script, please provide the path to the featurized data and the number of features to be selected as:
-  ```python
-  path = 'data.csv' # add your path here
-  K = 110 # number of features to be selected (best performance reported for 110 features using the i.p. data - please refer to manuscript)
-  ```
-  Run as follows (will save the data as a csv file):
-  ```python
-  _ = run(path, K)
-  ```
-* gbt_coarsegrid.py: The Gradient Boosting Machine (GBM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-  Now, depending on the computational resources at your disposal, you may consider making the parameter space larger or smaller.
-  ```python
-  param_grid = {'learning_rate : [0.1, 0.01, 0.001],
-                'max_iter' : [100, 200, 300, 400, 500],
-                'max_leaf_nodes' : [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
-                'min_samples_leaf' : [20, 30, 40, 50, 60, 70, 80, 90, 100],
-                'l2_regularization' : [0, 0.5, 0.75, 1, 10]}
-  ```
-  Depending on the feature-set, with the parameter space outlined above, this could take anywhere between a couple of hours, to over 12 hours to execute. To run the code, simply execute:
-  ```python
-  path = 'data.csv' # path to the data
-  scores = run_model(path) # returns the model performance
-  ```
-* rfc_coarsegrid.py: The Random Forest (RF) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-  The parameter space we have defined is as follows:
-  ```python
-  param_grid = {'n_estimators' : [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],
-                'max_depth' : [10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
-                'min_samples_split' : [2, 5, 10]}
-  ```
-  You can expect similar timescales - based on the size of the dataset you are training the models on.
-* svc_coarsegrid.py: The Support Vector Machine (SVM) trained on a coarse-grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-  The parameter space we have defined is as follows:
-  ```python
-  param_grid = {'C' : [0.1, 1, 5, 10],
-                'kernel' : ['linear', 'poly', 'rbf', 'sigmoid'],
-                'decision_function_shape' : ['ovo', 'ovr']}
-  ```
-* rfc_finegrid.py: The RF trained on a fine grid of hyperparameters as outlined in the manuscript and the schematic above. The model has been implemented using scikit-learn.
-* rfc.py: Training the best performing model - the RF using the optimum hyperparameters as deduced from the coarsegrid and finegrid hyperparameter optimization processes. The best performing model is saved after this code is executed.
-  To run the model:
-  ```python
-  path = 'data.csv' # path to where the data is stored
-  _, _, model, _, _, _, _, _, _, _, _ = run_model(path) 
-  ```
-  This will save the trained model for future use as finalized_model.sav (~200 Mb)
-* prediction_HTS.py: Predict the toxicity of MOF linker molecules in a high-throughput manner.
-  You would need to have a saved model to execute this code. To run, you need a csv file with the list of linkers to be tested.
-  Add the path to where the list is saved as:
-  ```python
-  data_path = 'data.csv'
-  ```
-  Add the path to where the model is saved as:
-  ```python
-  model_path = 'finalized_model.sav'
-  ```
+The code as such is well-documented and largely self-explanatory. A suggested workflow is as follows:
+1. Featurise the raw data. The data provided has been cleaned beforehand for duplicate entries and null values.
+2. Following featurisation, we will carry out feature selection.
+3. Next, we split the data into a train and independent test set. We do the splitting before any sampling to ensure that there is no information leakage. This allows us to gauge the true performance of the model on real-world data - which may often be heavily imbalanced.
+4. We perform data sampling on the train set to obtain equal datapoints for each class. Classifiers trained on imbalanced data, may be biased.
+5. We perform a gridsearch of hyperparameters to get a rough estimate of hyperparameters that are able to learn our features well. This has been implemented for all three models - Random Forest (RF), Gradient Boosting Machine (GBM) and Support Vector Machine (SVM). Following this, the best performing model(s) are further optimised using a finer grid search. The grid search results will be saved as a .csv file.
+6. Once we have a good set of hyperparameters, we train the production model. This will save (i) the model weights and (ii) ROC-AUC scores and plots. 
+
 In order to fragment MOF structures into their building MOFs, we recommend using *moffragmentor*, developed by Jablonka et al., accessible here: [https://github.com/kjappelbaum/moffragmentor/tree/main]. The library can be installed using:
 ```
 pip install moffragmentor
@@ -135,7 +50,7 @@ In case you want to re-parse some CIF files to correct occupancy issues, you may
 directory = 'directory_path/' # add the path to your directory
 ```
 ## Getting Started
-The code provided is readily implementable - the only change required in most cases is putting in the correct path to the directory where the data is stored. **Note:** *problems may arise due to conflicts between dependencies.* 
+The code provided is readily implementable - the only change required in most cases is putting in the correct path to the directory where the data is stored. **Note:** *problems may arise due to conflicts between dependencies. Chemprop works with any issues.* 
 
 Alternatively, if you have less expertise in code, and simply want to use the model to quickly identify the potential toxicity of linkers you are interested in - you can download and use the Jupyter Notebook provided. The ZIP file also contains the dataset on which the best performing model was trained on. **Note:** *This is for the i.p. route of administration.*
 
@@ -144,22 +59,20 @@ In the directory *training_data*, we provide CSV files of clean, raw data for to
 
 In the directory *metal_data*, we provide our curated data for the reported toxicity profiles of metal centres.
 
-In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOFs which were reported to be safe.
+In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOFs which were reported to be safe and 'less' toxic respectively.
 
 ## Citing
 If you use the tools developed in this study - please consider citing our work. **This will be updated as soon as the paper is published (underway)**
 
-Menon, D. and Fairen-Jimenez, D., 2024. Guiding the rational design of biocompatible MOFs for drug delivery using machine learning. *Under revision*
+Menon, D. and Fairen-Jimenez, D., 2024. Guiding the rational design of biocompatible MOFs for drug delivery. *Under revision*
 
 ## Contributing
-Contributions, whether filing an issue, making a pull request, or forking, are appreciated. 
+Contributions, whether filing an issue, making a pull request, or forking, are appreciated. Please note that the repository may not be regularly maintained.
 
 ## License
 This code package is licensed under the MIT License. 
 
 ## Development and Funding
 This work was carried out at the Adsorption and Advanced Materials (A2ML) Laboratory. Supported by the Engineering and Physical Sciences Research Council (EPSRC) and the Trinity Henry-Barlow (Honorary) Scholarship. 
-<p align="center">
-  <img src="utils/a2ml_logo.png" style="padding:10px;" width="700"/>
-</p>  
+
 
