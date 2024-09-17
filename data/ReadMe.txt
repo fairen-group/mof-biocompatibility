@@ -1,0 +1,2 @@
+1. The folder 'raw_data_clean' contains the raw data downloaded from the TOXRIC database followed by some cleaning for duplicates and null entries. 
+2. The folder 'metal_data' contains the list of metal centres that have been reported for MOFs along with their reported toxicity profiles, with relevant sources.

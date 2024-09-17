@@ -1,0 +1,2 @@
+The two CSV files present in this folder serve as Supporting Information Section S9. 
+Please note, during the screening process, some duplicates were identified while some pore properties could not be calculated due to problems with the structure. Therefore, the files here have slightly less MOFs than those discussed in the manuscript. 
