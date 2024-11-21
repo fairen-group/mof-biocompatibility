@@ -1,0 +1,25 @@
+Drug Name,Reported LD50,"Animal, Route",True Class,Predicted Class,Source,
+Acetaminophen,338 mg/kg,"Mouse, Oral",Toxic,Safe,DrugBank,https://go.drugbank.com/drugs/DB00316
+Amoxicillin ,> 5000 mg/kg,"Mouse, Oral",Safe,Safe,Material Safety Datasheet,https://www.merck.com/docs/product/safety-data-sheets/ah-sds/Amoxicillin%20Trihydrate%20Solid%20Formulation_AH_US_EN.pdf?site_intent=acknowledged
+Atropine,75 mg/kg,"Mouse, Oral",Toxic,Toxic,Material Safety Datasheet,https://cdn.caymanchem.com/cdn/msds/12008m.pdf
+Aspirin,1100 mg/kg,"Mouse, Oral",Toxic,Toxic,DrugBank,https://go.drugbank.com/drugs/DB00945
+Azithromicin,3000-4000 mg/kg,"Mouse, Oral",Safe,Safe,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Azithromycin
+Caffeine,192 mg/kg,"Rat, Oral",Toxic,Toxic,DrugBank,https://go.drugbank.com/drugs/DB00201#
+Chloroquine,311 mg/kg,"Mouse, Oral",Toxic,Toxic,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Chloroquine
+Ciprofloxacin,> 2000 mg/kg,"Rat, Oral",Safe,Safe,DrugBank,https://go.drugbank.com/drugs/DB00537
+Diazepam,249 mg/kg,"Rat, Oral",Toxic,Toxic,Material Safety Datasheet,https://www.spectrumchemical.com/media/sds/D2985_AGHS.pdf?srsltid=AfmBOop09DiWiyiD8etX46EfOov2n9WILT6en32Iss3nIKWuYLKLNmMy
+Digoxin,17.78 mg/kg,"Mouse, Oral",Fatal,Fatal,Material Safety Datasheet,https://hmdb.ca/system/metabolites/msds/000/001/507/original/Digoxin_msds.pdf?1368645951
+Diphenhydramine,500 mg/kg,"Rat, Oral",Toxic,Toxic,DrugBank,https://go.drugbank.com/drugs/DB01075
+Doxepin,135 mg/kg,"Mouse, Oral",Toxic,Toxic,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Doxepin
+Gabapentin,8000 mg/kg,"Mouse, Oral",Safe,Safe,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Gabapentin
+Ibuprofen,740 mg/kg,"Mouse, Oral",Toxic,Safe,DrugBank,https://go.drugbank.com/drugs/DB01050
+Ketorolac,189 mg/kg,"Rat, Oral",Toxic,Toxic,Material Safety Datasheet,https://cdn.caymanchem.com/cdn/msds/70690m.pdf
+Metformin,1450 mg/kg,"Mouse, Oral",Toxic,Toxic,DrugBank,https://go.drugbank.com/drugs/DB00331#
+Methotrexate,146 mg/kg,"Mouse, Oral",Toxic,Fatal,Material Safety Datasheet,https://cdn.pfizer.com/pfizercom/products/material_safety_data/PZ00135.pdf
+Methylphenidate,190 mg/kg,"Mouse, Oral",Toxic,Toxic,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Methylphenidate
+Morphine,600 mg/kg,"Mouse, Oral",Toxic,Toxic,Material Safety Datasheet,https://cdn.pfizer.com/pfizercom/products/material_safety_data/PZ00694.pdf
+Nicotine,24 mg/kg,"Mouse, Oral",Fatal,Toxic,DrugBank,https://go.drugbank.com/drugs/DB00184
+Prednisone,1680 mg/kg,"Mouse, Oral",Toxic,Safe,Material Safety Datasheet,https://www.fishersci.com/store/msds?partNumber=AC449470010&productDescription=PREDNISOLONE+1GR&vendorId=VN00032119&countryCode=US&language=en
+Sildenafi Citrate,300 mg/kg,"Rat, Oral",Toxic,Toxic,Material Safety Datasheet,https://www.fishersci.com/store/msds?partNumber=AC463250010&countryCode=US&language=en
+Tadalafil,> 2000 mg/kg,"Rat, Oral",Safe,Toxic,Material Safety Datasheet,https://ehs.lilly.com/Cialis%C2%AE(tadalafil).pdf
+Warfarin,374 mg/kg,"Mouse, Oral",Toxic,Toxic,PubChem,https://pubchem.ncbi.nlm.nih.gov/compound/Warfarin
