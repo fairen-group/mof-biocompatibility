@@ -64,7 +64,7 @@ In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOF
 ## Citing
 If you use the tools developed in this study - please consider citing our work. **This will be updated as soon as the paper is published (underway)**
 
-Menon, D. and Fairen-Jimenez, D., 2024. Guiding the rational design of biocompatible MOFs for drug delivery. *Under revision*
+Menon, D. and Fairen-Jimenez, D., 2024. Guiding the rational design of biocompatible MOFs for drug delivery. *Matter (Accepted, In Press)*
 
 ## Contributing
 Contributions, whether filing an issue, making a pull request, or forking, are appreciated. Please note that the repository may not be regularly maintained.
