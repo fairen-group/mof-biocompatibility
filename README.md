@@ -66,7 +66,7 @@ In the directory *metal_data*, we provide our curated data for the reported toxi
 In the directory *safe-MOFs*, we provide CSD refcodes and pore properties of MOFs which were reported to be safe and 'less' toxic respectively.
 
 ## Citing
-If you use the tools developed in this study - please consider citing our work. **This will be updated as soon as the paper is published (underway)**
+If you use the tools developed in this study - please consider citing our work. 
 
 Menon and Fairen-Jimenez, Guiding the rational design of biocompatible metal-organic frameworks for drug delivery, Matter (2025), https://doi.org/10.1016/j.matt.2025.101958
 
