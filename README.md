@@ -2,7 +2,7 @@
   <img src="img/matter.png" style="padding:10px;" width="700"/>
 </p>  
 This is the official implementation for our paper in Matter:
-###Guiding the rational design of biocompatible metal-organic frameworks for drug delivery.
+### Guiding the rational design of biocompatible metal-organic frameworks for drug delivery.
 [Dhruv Menon](https://scholar.google.com/citations?user=NMOjZLQAAAAJ&hl=en&oi=ao)\,
 [David Fairen-Jimenez](https://scholar.google.com/citations?user=F3UKbZsAAAAJ&hl=en&oi=ao)\*
 
